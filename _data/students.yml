@@ -11,16 +11,16 @@
 - name: Prashant Ravi
   degree: M.Tech
   year: 2020-22
-  topic: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
-  profile: https://www.cse.iitb.ac.in/~prashantravi/
+  topic: "Improving virtual to physical address translation speed by expading TLB coverage."
+  profile: https://coderaavan.github.io/
   email: prashantravi@cse.iitb.ac.in
-  github: "0xd3ba"
+  github: "coderaavan"
 
 
 - name: Ritesh Gavande
   degree: M.Tech
   year: 2020-22
-  topic: "Amet volutpat consequat mauris nunc congue nisi vitae"
-  profile: https://www.cse.iitb.ac.in/~riteshgvnd/
+  topic: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  profile: https://riteshgvnd.github.io/
   email: riteshgvnd@cse.iitb.ac.in
-  github: "0xd3ba"
+  github: "riteshgvnd"

@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: News
-description: News & blog posts
+title: Blogs & News
+description: Blogs & News related to CASPER
 permalink: /blog/
 ---
 
-<!-- Content here would shop up above your list of posts -->
+## Coming Soon...
+<!-- Content here would show up above your list of posts -->

@@ -4,10 +4,10 @@
   role: # Will appear next to name
   image: assets/img/faculty/biswa.jpg # Can be external link
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+    Member of faculty (a.k.a Assistant Professor @CSE-IITB) exploring the path to enlightenment
   profile:       # Link to profile
   email: biswa@cse.iitb.ac.in
-  github: github_name
+  github: 
 
 # - name: Turanga Leela
 #   role: Captain
