@@ -1,0 +1,26 @@
+# Project team members listed below will appear on the /team page
+
+- name: Debasish Das
+  degree: M.Tech
+  year: 2020-22
+  topic: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  profile: https://www.cse.iitb.ac.in/~debasish
+  email: debasish@cse.iitb.ac.in
+  github: "0xd3ba"
+
+- name: Prashant Ravi
+  degree: M.Tech
+  year: 2020-22
+  topic: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+  profile: https://www.cse.iitb.ac.in/~prashantravi/
+  email: prashantravi@cse.iitb.ac.in
+  github: "0xd3ba"
+
+
+- name: Ritesh Gavande
+  degree: M.Tech
+  year: 2020-22
+  topic: "Amet volutpat consequat mauris nunc congue nisi vitae"
+  profile: https://www.cse.iitb.ac.in/~riteshgvnd/
+  email: riteshgvnd@cse.iitb.ac.in
+  github: "0xd3ba"

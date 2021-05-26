@@ -1,16 +1,22 @@
 ---
 layout: home
-title: Our research project
-description: Towards developing a theme for research project websites
-background: /assets/img/chuttersnap-146799-unsplash.jpg
+title: CASPER
+description: Computer Architecture for Security and Performance
+background: /assets/img/christian-wiediger-unsplash.jpg
 permalink: /
 ---
 
+> A computer architect walks up to an elevator and sees a sign that says “Out of Order” ... and says “Even better!” and gets into it.
+>
+> Source: Reddit
+
 {: .alert .alert-info}
-This is a demo website for [Petridish](https://github.com/peterdesmet/petridish): a Jekyll theme for research project websites.
+Welcome to CASPER: *Computer Architecture for Security and Performance* group! 
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+Every wondered what components make a processor chip ? How do these components interact with each other ? How are the instructions fetched, decoded and executed by the processor ? What can be done to make the the processor execute them even more *faster* ? Why is the clock rate of most modern-day processors *stuck* at 2-4 Ghz ? Why do we need *caches* in the memory heirarchy ? Why worry about security when there are already hardware-level protection mechanisms like *paging* ? 
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+We are a group of people from [Computer Science and Engineering](https://www.cse.iitb.ac.in) department in [Indian Institute of Technology Bombay](https://www.iitb.ac.in), who ponder about similar questions and whose research includes, but is not limited to, methologies to make the systems more robust against hardware-level attacks and to further improve the performance of modern-day processors, which also includes exploring and applying *Machine Learning* (ML) techniques! 
+
+---
 
 

@@ -5,12 +5,14 @@ description: Template for team page
 
 {{ content }}
 
-{% for member in site.data.team %}
+<h2>Faculty</h2>
+{% assign faculty = site.data.faculty | sort: "name" %}
+{% for member in faculty %}
   <div class="media team-member">
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
       <h5 id="{{ member.name | strip | url_encode }}">
-        {{ member.name }}
+        <a href="{{ member.profile }}"> {{ member.name }} </a>
         {% if member.role %}
         <small class="text-muted">| {{ member.role }}</small>
         {% endif %}
@@ -19,21 +21,10 @@ description: Template for team page
       {{ member.description | markdownify }}
 
       <ul class="list-inline">
-        {% if member.orcid %}
-        <li class="list-inline-item">
-          <a href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
-        </li>
-        {% endif %}
 
         {% if member.email %}
         <li class="list-inline-item">
           <a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
-        </li>
-        {% endif %}
-
-        {% if member.twitter %}
-        <li class="list-inline-item">
-          <a href="https://twitter.com/{{ member.twitter }}"><i class="fa fa-twitter"></i></a>
         </li>
         {% endif %}
 
@@ -46,4 +37,43 @@ description: Template for team page
     </div>
   </div>
 {% endfor %}
+
+<!-- Add the list of the students -->
+<h2>Students</h2>
+<div class="media">
+  <table>
+    <tr class="text-muted" style="font-weight: bold;">
+      <td > Name </td>
+      <td> Degree </td>
+      <td>Research Topic </td>
+      <td> Contact </td>
+    </tr>
+    {% assign students = site.data.students | sort: "name" | reverse %}
+    {% for member in students %}
+
+    <tr>
+      <td> <a href="{{ member.profile }}" > {{ member.name }} </a></td>
+      <td class="text-muted"> {{ member.degree }} ({{ member.year }}) </td>
+      <td class="text-muted"> {{member.topic}} </td>
+      
+      <td> <ul class="list-inline">
+        
+        {% if member.email %}
+        <li class="list-inline-item">
+          <a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
+        </li>
+        {% endif %}
+
+        {% if member.github %}
+        <li class="list-inline-item">
+          <a href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
+        </li>
+        {% endif %}
+      </ul> </td>
+    </tr>
+
+    {% endfor %}
+  </table>
+</div>
+
 

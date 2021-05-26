@@ -1,5 +1,5 @@
 <footer>
-  <div class="container">
+  <div class="container" style="margin: auto;">
     <div class="row">
       <div class="col-lg">
         <ul class="list-inline">
@@ -57,12 +57,13 @@
       {% endfor %}
     </div>
 
-    <div class="small mt-2">
+    <div class="small mt-2" style="text-align: center; padding: auto;">
       {% if site.author %}
         <p>© {{ site.author }}</p>
       {% endif %}
       {% if site.data.footer.license %}
         {{ site.data.footer.license | markdownify }}
+      
       {% endif %}
     </div>
   </div>
