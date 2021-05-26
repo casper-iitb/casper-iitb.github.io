@@ -4,7 +4,7 @@
   role: # Will appear next to name
   image: assets/img/faculty/biswa.jpg # Can be external link
   description: > # Can be Markdown
-    Member of faculty (a.k.a Assistant Professor @CSE-IITB) exploring the path to enlightenment
+    Faculty (a.k.a Assistant Professor) @CSE-IITB
   profile:       # Link to profile
   email: biswa@cse.iitb.ac.in
   github: 
