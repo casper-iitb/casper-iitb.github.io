@@ -1,10 +1,10 @@
 # Project team members listed below will appear on the /team page
 
 - name: Debasish Das
-  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg
+  image: assets/img/bio-photo.jpg
   degree: M.Tech.
   year: 2020-22
-  topic: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  topic: "Machine Learning for Computer Architecture"
   profile: https://www.cse.iitb.ac.in/~debasish
   email: debasish@cse.iitb.ac.in
   github: "0xd3ba"
@@ -23,7 +23,7 @@
   image: assets/img/ritesh.jpg
   degree: M.Tech.
   year: 2020-22
-  topic: "Amet volutpat consequat mauris nunc congue nisi vitae"
+  topic: "Machine Learning for Improving Cache Performance"
   profile: https://riteshgvnd.github.io/
   email: riteshgvnd@cse.iitb.ac.in
   github: "riteshgvnd"
