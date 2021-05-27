@@ -10,20 +10,20 @@
   github: "0xd3ba"
 
 - name: Prashant Ravi
-  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  image: assets/img/img2.jpg
   degree: M.Tech.
   year: 2020-22
-  topic: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
-  profile: https://www.cse.iitb.ac.in/~prashantravi/
+  topic: "Improving virtual to physical address translation speed by expanding TLB coverage."
+  profile: https://coderaavan.github.io/
   email: prashantravi@cse.iitb.ac.in
-  github: "0xd3ba"
+  github: "coderaavan"
 
 
 - name: Ritesh Gavande
-  image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
+  image: assets/img/ritesh.jpg
   degree: M.Tech.
   year: 2020-22
   topic: "Amet volutpat consequat mauris nunc congue nisi vitae"
-  profile: https://www.cse.iitb.ac.in/~riteshgvnd/
+  profile: https://riteshgvnd.github.io/
   email: riteshgvnd@cse.iitb.ac.in
-  github: "0xd3ba"
+  github: "riteshgvnd"
