@@ -1,7 +1,8 @@
 # Project team members listed below will appear on the /team page
 
 - name: Debasish Das
-  degree: M.Tech
+  image: assets/img/fry_ethan-hoover-311143-unsplash.jpg
+  degree: M.Tech.
   year: 2020-22
   topic: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
   profile: https://www.cse.iitb.ac.in/~debasish
@@ -9,18 +10,20 @@
   github: "0xd3ba"
 
 - name: Prashant Ravi
-  degree: M.Tech
+  image: assets/img/leela_artem-kovalev-1403404-unsplash.jpg
+  degree: M.Tech.
   year: 2020-22
-  topic: "Improving virtual to physical address translation speed by expading TLB coverage."
-  profile: https://coderaavan.github.io/
+  topic: "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
+  profile: https://www.cse.iitb.ac.in/~prashantravi/
   email: prashantravi@cse.iitb.ac.in
-  github: "coderaavan"
+  github: "0xd3ba"
 
 
 - name: Ritesh Gavande
-  degree: M.Tech
+  image: assets/img/farnsworth_angelo-abear-1662775-unsplash.jpg
+  degree: M.Tech.
   year: 2020-22
-  topic: "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-  profile: https://riteshgvnd.github.io/
+  topic: "Amet volutpat consequat mauris nunc congue nisi vitae"
+  profile: https://www.cse.iitb.ac.in/~riteshgvnd/
   email: riteshgvnd@cse.iitb.ac.in
-  github: "riteshgvnd"
+  github: "0xd3ba"
