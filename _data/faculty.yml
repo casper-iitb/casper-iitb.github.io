@@ -5,7 +5,7 @@
   image: assets/img/faculty/biswa.jpg # Can be external link
   description: > # Can be Markdown
     Faculty (a.k.a Assistant Professor) @CSE-IITB
-  profile:       # Link to profile
+  profile: https://www.cse.iitb.ac.in/~biswa/   
   email: biswa@cse.iitb.ac.in
   github: 
 
