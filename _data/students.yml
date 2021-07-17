@@ -2,7 +2,7 @@
 
 - name: Debasish Das
   image: assets/img/bio-photo.jpg
-  degree: M.Tech.
+  degree: M.Tech
   year: 2020-22
   topic: "Machine Learning for Computer Architecture"
   profile: https://www.cse.iitb.ac.in/~debasish
@@ -11,7 +11,7 @@
 
 - name: Prashant Ravi
   image: assets/img/img2.jpg
-  degree: M.Tech.
+  degree: M.Tech
   year: 2020-22
   topic: "Improving virtual to physical address translation speed by expanding TLB coverage."
   profile: https://coderaavan.github.io/
@@ -21,7 +21,7 @@
 
 - name: Ritesh Gavande
   image: assets/img/ritesh.jpg
-  degree: M.Tech.
+  degree: M.Tech
   year: 2020-22
   topic: "Machine Learning for Improving Cache Performance"
   profile: https://riteshgvnd.github.io/
@@ -30,9 +30,18 @@
 
 - name: Yashika Verma
   image: assets/img/yashika.jpg
-  degree: PhD
+  degree: Ph.D
   year: 2019-
   topic: "Trusted Execution Environment"
   profile: https://www.cse.iitk.ac.in/users/yashikav/
   email: yashikav@cse.iitb.ac.in
   github: 
+
+- name: Adithya Bhaskar
+  image: assets/img/adithya.jpg
+  degree: B.Tech
+  year: 2019-2023
+  topic: 
+  profile: 
+  email: adithyakernel@gmail.com
+  github: "testzer0"
