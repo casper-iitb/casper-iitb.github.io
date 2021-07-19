@@ -1,7 +1,7 @@
 # Project team members listed below will appear on the /team page
 
 - name: Debasish Das
-  image: assets/img/bio-photo.jpg
+  image: assets/img/Deba.png
   degree: M.Tech
   year: 2020-22
   topic: "Machine Learning for Computer Architecture"
@@ -41,7 +41,7 @@
   image: assets/img/adithya.png
   degree: B.Tech
   year: 2019-23
-  topic: 
+  topic: "Microarchitecture-OS interaction"
   profile: 
   email: adithyakernel@gmail.com
   github: "testzer0"
