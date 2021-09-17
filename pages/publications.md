@@ -6,3 +6,5 @@ permalink: /publications/
 ---
 
 * (**[IEEE CAL 2021](https://www.computer.org/csdl/journal/ca)**) Pratik Kumar, Chavhan Sujeet Yashavant, and Biswabandan Panda, “**[DAMARU: A Denial-of-Service Attack on Randomized Last-Level Caches](https://www.cse.iitb.ac.in/~biswa/DAMARU-final.pdf)**" in IEEE Computer Architecture Letters, 2021
+
+* (**[AIMLSYS 2021](https://www.aimlsystems.org/2021/)**) Dandpati Kumar Bhargav Achary, R Sai Chandra Teja, Sparsh Mittal, Biswabandan Panda, and C Krishna Mohan “**[Inferring DNN layer-types through a Hardware Performance Counters based Side Channel Attack](https://www.cse.iitb.ac.in/~biswa/AIMLSYS.pdf)**" in Proceedings of IEEE 1st ACM International Conference on AI-ML systems, 2021
