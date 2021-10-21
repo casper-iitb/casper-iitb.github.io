@@ -4,6 +4,8 @@ description: One-stop page for all CASPER's pulications
 background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
 permalink: /publications/
 ---
+* (**[IEEE QRS 2021](https://qrs21.techconf.org/)**) Saurabh Kumar, Debadatta Mishra, Biswabandan Panda and Sandeep Kumar Shukla, “**DeepDetect: A Practical On-device Android Malware Detector**" in 21st IEEE International Conference on Software Quality, Reliability, and Security
+
 * (**[IEEE CAL 2021](https://www.computer.org/csdl/journal/ca)**) Neelu Shivprakash Kalani and Biswabandan Panda, “**[Instruction Criticality based Energy-efficient
 Hardware Data Prefetching](https://www.cse.iitb.ac.in/~biswa/EnergyPref.pdf)**" in IEEE Computer Architecture Letters, 2021
 
