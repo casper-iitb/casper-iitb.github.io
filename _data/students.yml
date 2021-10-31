@@ -1,24 +1,5 @@
 # Project team members listed below will appear on the /team page
 
-- name: Debasish Das
-  image: assets/img/Deba.png
-  degree: M.Tech
-  year: 2020-22
-  topic: "Reinforcement Learning for Hardware Prefetchers"
-  profile: https://www.cse.iitb.ac.in/~debasish
-  email: debasish@cse.iitb.ac.in
-  github: "0xd3ba"
-
-- name: Yashika Verma
-  image: assets/img/yashika.jpg
-  degree: Ph.D
-  year: 2019-
-  topic: "Trusted Execution Environment and secure memory hierarchies"
-  profile: https://www.cse.iitk.ac.in/users/yashikav/
-  email: yashikav@cse.iitk.ac.in
-  github: 
-  
-  
 - name: Arun KP
   image: assets/img/arun.jpg
   degree: Ph.D
@@ -28,6 +9,15 @@
   email: kparun@cse.iitk.ac.in
   github: 
   
+- name: Yashika Verma
+  image: assets/img/yashika.jpg
+  degree: Ph.D
+  year: 2019-
+  topic: "Trusted Execution Environment and secure memory hierarchies"
+  profile: https://www.cse.iitk.ac.in/users/yashikav/
+  email: yashikav@cse.iitk.ac.in
+  github: 
+    
 - name: Veerendra 
   image: assets/img/veerendra-img.jpeg
   degree: Ph.D
@@ -37,6 +27,15 @@
   email: veerendra@cse.iitb.ac.in
   github: 
 
+- name: Debasish Das
+  image: assets/img/Deba.png
+  degree: M.Tech
+  year: 2020-22
+  topic: "Reinforcement Learning for Hardware Prefetchers"
+  profile: https://www.cse.iitb.ac.in/~debasish
+  email: debasish@cse.iitb.ac.in
+  github: "0xd3ba"
+  
 - name: Adithya Bhaskar
   image: assets/img/adithya.png
   degree: B.Tech
