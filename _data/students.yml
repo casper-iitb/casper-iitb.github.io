@@ -18,10 +18,8 @@
   email: yashikav@cse.iitk.ac.in
   github: 
   
-  
-  
 - name: Veerendra 
-  image: assets/img/veerendra.jpg
+  image: assets/img/veerendra-img.jpeg
   degree: Ph.D
   year: 2021-
   topic: "Reinforcement Learning for microarchitecture"
