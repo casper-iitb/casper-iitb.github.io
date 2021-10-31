@@ -18,6 +18,16 @@
   email: yashikav@cse.iitk.ac.in
   github: 
   
+  
+- name: Arun KP
+  image: assets/img/arun.jpg
+  degree: Ph.D
+  year: 20198-
+  topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory"
+  profile: https://www.cse.iitk.ac.in/users/kparun/
+  email: kparun@cse.iitk.ac.in
+  github: 
+  
 - name: Veerendra 
   image: assets/img/veerendra-img.jpeg
   degree: Ph.D
