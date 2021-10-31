@@ -4,44 +4,36 @@
   image: assets/img/Deba.png
   degree: M.Tech
   year: 2020-22
-  topic: "Machine Learning for Hardware Prefetchers"
+  topic: "Reinforcement Learning for Hardware Prefetchers"
   profile: https://www.cse.iitb.ac.in/~debasish
   email: debasish@cse.iitb.ac.in
   github: "0xd3ba"
-
-- name: Prashant Ravi
-  image: assets/img/img2.jpg
-  degree: M.Tech
-  year: 2020-22
-  topic: "Improving virtual to physical address translation speed by expanding TLB coverage."
-  profile: https://coderaavan.github.io/
-  email: prashantravi@cse.iitb.ac.in
-  github: "coderaavan"
-
-
-- name: Ritesh Gavande
-  image: assets/img/ritesh.jpg
-  degree: M.Tech
-  year: 2020-22
-  topic: "Machine Learning for Improving Cache Performance"
-  profile: https://riteshgvnd.github.io/
-  email: riteshgvnd@cse.iitb.ac.in
-  github: "riteshgvnd"
 
 - name: Yashika Verma
   image: assets/img/yashika.jpg
   degree: Ph.D
   year: 2019-
-  topic: "Trusted Execution Environment"
+  topic: "Trusted Execution Environment and secure memory hierarchies"
   profile: https://www.cse.iitk.ac.in/users/yashikav/
-  email: yashikav@cse.iitb.ac.in
+  email: yashikav@cse.iitk.ac.in
+  github: 
+  
+  
+  
+- name: Veerendra 
+  image: assets/img/veerendra.jpg
+  degree: Ph.D
+  year: 2021-
+  topic: "Reinforcement Learning for microarchitecture"
+  profile: https://veerendrav.github.io/
+  email: veerendra@cse.iitb.ac.in
   github: 
 
 - name: Adithya Bhaskar
   image: assets/img/adithya.png
   degree: B.Tech
   year: 2019-23
-  topic: "Microarchitecture-OS interaction"
+  topic: "Microarchitecture-OS/Network interaction"
   profile: 
   email: adithyakernel@gmail.com
   github: "testzer0"
