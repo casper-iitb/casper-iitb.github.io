@@ -21,8 +21,8 @@
 - name: Veerendra 
   image: assets/img/veerendra-img.jpeg
   degree: Ph.D
-  year: 2021-
-  topic: "Reinforcement Learning for microarchitecture"
+  year: 2020-
+  topic: "Reinforcement Learning for microarchitecture optimizations"
   profile: https://veerendrav.github.io/
   email: veerendra@cse.iitb.ac.in
   github: 
