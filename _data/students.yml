@@ -1,62 +1,62 @@
 # Project team members listed below will appear on the /team page
 
-- name: Arun (Ph.D. at IIT Kanpur)
+- name: Ph.Ds@CASPER: Arun 
   image: assets/img/arun.jpg
-  degree: Ph.D
+  degree: Ph.D at IIT Kanpur
   year: 2018-
   topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory"
   profile: https://www.cse.iitk.ac.in/users/kparun/
   email: kparun@cse.iitk.ac.in
   github: 
   
-- name: Yashika (Ph.D. at IIT Kanpur)
+- name:  Ph.Ds@CASPER: Yashika 
   image: assets/img/yashika.jpg
-  degree: Ph.D
+  degree: Ph.D at IIT Kanpur
   year: 2019-
   topic: "Trusted Execution Environment and secure memory hierarchies"
   profile: https://www.cse.iitk.ac.in/users/yashikav/
   email: yashikav@cse.iitk.ac.in
   github: 
     
-- name: Veerendra 
+- name:  Ph.Ds@CASPER: Veerendra
   image: assets/img/veerendra-img.jpeg
-  degree: Ph.D
+  degree: Ph.D at IIT Bombay
   year: 2020-
   topic: "Reinforcement Learning for microarchitecture optimizations"
   profile: https://veerendrav.github.io/
   email: veerendra@cse.iitb.ac.in
   github: 
 
-- name: Debasish
+- name:  Masters@CASPER: Debashish 
   image: assets/img/Deba.png
-  degree: M.Tech
+  degree: M.Tech at IIT Bombay
   year: 2020-22
   topic: "Reinforcement Learning for Hardware Prefetchers"
   profile: https://www.cse.iitb.ac.in/~debasish 
   email: debasish@cse.iitb.ac.in
   github: "0xd3ba"
   
-- name: Sumon
+- name:  Masters@CASPER: Sumon
   image: assets/img/sumon.jpg
-  degree: M.S.
+  degree: M.S. at IIT Bombay
   year: 2021-
   topic: "Hardware Prefetching conscious memory hierarchy"
   profile: https://www.cse.iitb.ac.in/~sumon 
   email: sumon@cse.iitb.ac.in
   github: 
   
-- name: Adithya
+- name:  B.Techs@CASPER: Adithya 
   image: assets/img/adithya.png
-  degree: B.Tech
+  degree: B.Tech at IIT Bombay
   year: 2019-23
   topic: "Memory Hierarchy for Intel DDIO"
   profile: 
   email: adithyakernel@gmail.com
   github: "testzer0"
   
-- name: Jayati (B.Tech. Intern from IIT Roorkee)
+- name: B.Tech. interns@CASPER: Jayati 
   image: assets/img/jaya.jpg
-  degree: B.Tech
+  degree: B.Tech at IIT Roorkee
   year: 2018-22
   topic: "Quantifying microarchitecture interactions"
   profile: https://in.linkedin.com/in/jayatishrivastava
