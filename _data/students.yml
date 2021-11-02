@@ -1,6 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: Arun KP (Ph.D. at IIT Kanpur)
+- name: Arun (Ph.D. at IIT Kanpur)
   image: assets/img/arun.jpg
   degree: Ph.D
   year: 2018-
@@ -27,7 +27,7 @@
   email: veerendra@cse.iitb.ac.in
   github: 
 
-- name: Debasish Das
+- name: Debasish
   image: assets/img/Deba.png
   degree: M.Tech
   year: 2020-22
@@ -36,7 +36,7 @@
   email: debasish@cse.iitb.ac.in
   github: "0xd3ba"
   
-- name: Sumon Nath
+- name: Sumon
   image: assets/img/sumon.jpg
   degree: M.S.
   year: 2021-
@@ -45,7 +45,7 @@
   email: sumon@cse.iitb.ac.in
   github: 
   
-- name: Adithya Bhaskar
+- name: Adithya
   image: assets/img/adithya.png
   degree: B.Tech
   year: 2019-23
@@ -53,3 +53,13 @@
   profile: 
   email: adithyakernel@gmail.com
   github: "testzer0"
+  
+- name: Jayati (B.Tech. Intern from IIT Roorkee)
+  image: assets/img/jaya.jpg
+  degree: B.Tech
+  year: 2018-22
+  topic: "Quantifying Microarchitecture Interactions"
+  profile: https://in.linkedin.com/in/jayatishrivastava
+  email: jshrivastava@ee.iitr.ac.in
+  github:   
+  
