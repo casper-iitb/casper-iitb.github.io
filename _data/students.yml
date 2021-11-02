@@ -1,6 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: Ph.Ds@CASPER: Arun 
+- name: Ph.Ds@CASPER (Arun) 
   image: assets/img/arun.jpg
   degree: Ph.D at IIT Kanpur
   year: 2018-
@@ -9,7 +9,7 @@
   email: kparun@cse.iitk.ac.in
   github: 
   
-- name:  Ph.Ds@CASPER: Yashika 
+- name:  Ph.Ds@CASPER (Yashika) 
   image: assets/img/yashika.jpg
   degree: Ph.D at IIT Kanpur
   year: 2019-
@@ -18,7 +18,7 @@
   email: yashikav@cse.iitk.ac.in
   github: 
     
-- name:  Ph.Ds@CASPER: Veerendra
+- name:  Ph.Ds@CASPER (Veerendra)
   image: assets/img/veerendra-img.jpeg
   degree: Ph.D at IIT Bombay
   year: 2020-
@@ -27,7 +27,7 @@
   email: veerendra@cse.iitb.ac.in
   github: 
 
-- name:  Masters@CASPER: Debashish 
+- name:  Masters@CASPER (Debashish) 
   image: assets/img/Deba.png
   degree: M.Tech at IIT Bombay
   year: 2020-22
@@ -36,7 +36,7 @@
   email: debasish@cse.iitb.ac.in
   github: "0xd3ba"
   
-- name:  Masters@CASPER: Sumon
+- name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
   year: 2021-
@@ -45,7 +45,7 @@
   email: sumon@cse.iitb.ac.in
   github: 
   
-- name:  B.Techs@CASPER: Adithya 
+- name:  B.Techs@CASPER (Adithya) 
   image: assets/img/adithya.png
   degree: B.Tech at IIT Bombay
   year: 2019-23
@@ -54,7 +54,7 @@
   email: adithyakernel@gmail.com
   github: "testzer0"
   
-- name: B.Tech. interns@CASPER: Jayati 
+- name: B.Tech. interns@CASPER (Jayati) 
   image: assets/img/jaya.jpg
   degree: B.Tech at IIT Roorkee
   year: 2018-22
