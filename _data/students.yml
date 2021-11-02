@@ -49,7 +49,7 @@
   image: assets/img/adithya.png
   degree: B.Tech
   year: 2019-23
-  topic: "Microarchitecture-OS/Network interaction"
+  topic: "Memory Hierarchy for Intel DDIO"
   profile: 
   email: adithyakernel@gmail.com
   github: "testzer0"
@@ -58,7 +58,7 @@
   image: assets/img/jaya.jpg
   degree: B.Tech
   year: 2018-22
-  topic: "Quantifying Microarchitecture Interactions"
+  topic: "Quantifying microarchitecture interactions"
   profile: https://in.linkedin.com/in/jayatishrivastava
   email: jshrivastava@ee.iitr.ac.in
   github:   
