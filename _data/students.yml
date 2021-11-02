@@ -61,5 +61,15 @@
   topic: "Quantifying microarchitecture interactions"
   profile: https://in.linkedin.com/in/jayatishrivastava
   email: jshrivastava@ee.iitr.ac.in
-  github:   
+  github: 
+  
+  
+- name: ABC@CASPER (Is this you?) 
+  image: assets/img/this.jpg
+  degree: 
+  year: 20XX-YY
+  topic: "Everything in Computer Architecture"
+  profile: 
+  email: unknown
+  github:  
   
