@@ -27,10 +27,8 @@
   email: veerendra@cse.iitb.ac.in
   github: 
   
-  
-  
-- name:  Ph.Ds@CASPER (Veerendra)
-  image: assets/img/hari-img.jpeg
+- name:  Ph.Ds@CASPER (Hari)
+  image: assets/img/hari-imge.jpeg
   degree: Ph.D at IIT Bombay
   year: 2021-
   topic: "microarchitecture for network function virtualization"
