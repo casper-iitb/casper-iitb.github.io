@@ -28,7 +28,7 @@
   github: 
   
 - name:  Ph.Ds@CASPER (Hari)
-  image: assets/image/hari-imge.jpeg.png
+  image: assets/image/hari-image.jpeg.png
   degree: Ph.D at IIT Bombay
   year: 2021-
   topic: "Microarchitecture for network I/O"
