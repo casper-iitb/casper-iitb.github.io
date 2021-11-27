@@ -26,6 +26,17 @@
   profile: https://veerendrav.github.io/
   email: veerendra@cse.iitb.ac.in
   github: 
+  
+  
+  
+- name:  Ph.Ds@CASPER (Veerendra)
+  image: assets/img/hari-img.jpeg
+  degree: Ph.D at IIT Bombay
+  year: 2021-
+  topic: "microarchitecture for network function virtualization"
+  profile: https://www.linkedin.com/in/hari-sharan-2657a615/
+  email: harisharan@cse.iitb.ac.in
+  github:
 
 - name:  Masters@CASPER (Debashish) 
   image: assets/img/Deba.png
