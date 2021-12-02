@@ -54,15 +54,6 @@
   email: sumon@cse.iitb.ac.in
   github: 
   
-- name:  B.Techs@CASPER (Adithya) 
-  image: assets/img/adithya.png
-  degree: B.Tech at IIT Bombay
-  year: 2019-23
-  topic: "Memory Hierarchy for Intel DDIO"
-  profile: 
-  email: adithyakernel@gmail.com
-  github: "testzer0"
-  
 - name: B.Tech. interns@CASPER (Jayati) 
   image: assets/img/jaya.jpg
   degree: B.Tech at IIT Roorkee
