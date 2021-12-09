@@ -1,6 +1,6 @@
 ---
 title: Publications
-description: One-stop page for all CASPER's pulications
+description: One-stop page for all CASPER's publications
 background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
 permalink: /publications/
 ---
