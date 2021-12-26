@@ -2,12 +2,12 @@
 
 - text: About # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: Blog
-  href: /blog/
 - text: People
   href: /people/
 - text: Publications
   href: /publications/
+- text: Blogs
+  href: /blogs/
 # - text: Courses
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Page 1
