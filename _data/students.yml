@@ -56,7 +56,7 @@
   
   
 - name: B.Techs@CASPER (Tanu) 
-  image: assets/img/Tanu.png
+  image: assets/img/tanu.png
   degree: B.Tech at IIT Bombay
   year: 2019-23
   topic: "Transient attack resilient memory hierarchy"
