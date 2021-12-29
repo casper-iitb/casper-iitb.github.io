@@ -54,6 +54,16 @@
   email: sumon@cse.iitb.ac.in
   github: 
   
+  
+- name: B.Techs@CASPER (Tanu) 
+  image: assets/img/Tanu.png
+  degree: B.Tech at IIT Bombay
+  year: 2019-23
+  topic: "Transient attack resilient memory hierarchy"
+  profile: 
+  email: tanugoyal@cse.iitb.ac.in
+  github: 
+  
 - name: B.Tech. interns@CASPER (Jayati) 
   image: assets/img/jaya.jpg
   degree: B.Tech at IIT Roorkee
