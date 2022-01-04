@@ -73,6 +73,15 @@
   email: jshrivastava@ee.iitr.ac.in
   github: 
   
+- name: B.Tech. interns@CASPER (Ketan) 
+  image: assets/img/ketan.jpeg
+  degree: B.Tech at IIT Kanpur
+  year: 2019-23
+  topic: "Secure cache hierarchies"
+  profile: https://ketanch.github.io/
+  email: ketanch@iitk.ac.in
+  github: https://github.com/ketanch
+
   
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
