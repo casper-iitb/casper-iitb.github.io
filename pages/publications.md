@@ -8,7 +8,7 @@ permalink: /publications/
 
 * (**[HOST 2022](http://www.hostsymposium.org/)**) Yashika Verma, Dixit Kumar, and Biswabandan Panda, “**[EnclaveSim:A Micro-architectural Simulator with Enclave Support](https://www.cse.iitb.ac.in/~biswa/HOST_enclavesim.pdf)**” to appear in IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022
 
-* (**[HOST 2022](http://www.hostsymposium.org/)**) Yashika Verma, Dixit Kumar, and Biswabandan Panda, “**[SpecPref: High Performing Speculative Attacks Resilient Hardware Prefetchers](https://www.cse.iitb.ac.in/~biswa/Specpref-final.pdf)**” to appear in IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022, (**[Winner of MICRO-SRC 2021](https://www.dropbox.com/s/to1eshh8rq7v5kg/Tarun-MICROSRC.jpg?dl=0)**
+* (**[HOST 2022](http://www.hostsymposium.org/)**) Tarun Solanki and Biswabandan Panda, “**[SpecPref: High Performing Speculative Attacks Resilient Hardware Prefetchers](https://www.cse.iitb.ac.in/~biswa/Specpref-final.pdf)**” to appear in IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022, (**[Winner of MICRO-SRC 2021](https://www.dropbox.com/s/to1eshh8rq7v5kg/Tarun-MICROSRC.jpg?dl=0)**
 
 * (**[MSR 2022](https://conf.researchr.org/home/msr-2022)**) Arun KP, Saurabh Kumar, Debadatta Mishra, and Biswabandan Panda ,“**[SniP: An Efficient Stack Tracing Framework for Multi-threaded Programs](https://www.cse.iitb.ac.in/~biswa/MSR-1.pdf)**,” In Proceedings of The 2022 Mining Software Repositories Conference
 
