@@ -20,9 +20,7 @@ Branch Target Buffer for Servers](https://www.cse.iitb.ac.in/~biswa/CF2022.pdf)*
 
 * (**[MSR 2022](https://conf.researchr.org/home/msr-2022)**)  Saurabh Kumar, Debadatta Mishra, Biswabandan Panda and Sandeep Shukla,“**[AndroOBFS: Time-tagged Obfuscated Android Malware Dataset with Family Information](https://www.cse.iitb.ac.in/~biswa/MSR22-1.pdf)**,” In Proceedings of The 2022 Mining Software Repositories Conference
 
-*      * 
-* ***2021*** *
-*      * 
+ * [2021] 
 
 * (**[IEEE QRS 2021](https://qrs21.techconf.org/)**) Saurabh Kumar, Debadatta Mishra, Biswabandan Panda and Sandeep Kumar Shukla, “**[DeepDetect: A Practical On-device Android Malware Detector](https://www.cse.iitb.ac.in/~biswa/QRS2021.pdf)**" in 21st IEEE International Conference on Software Quality, Reliability, and Security
 
