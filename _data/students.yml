@@ -17,16 +17,7 @@
   profile: https://skmtr1.github.io/
   email: skmtr@cse.iitk.ac.in
   github: https://github.com/skmtr1
-  
-- name:  Ph.Ds@CASPER (Yashika) 
-  image: assets/img/yashika.jpg
-  degree: Ph.D at IIT Kanpur
-  year: 2019-
-  topic: "Trusted Execution Environment and secure memory hierarchies"
-  profile: https://www.cse.iitk.ac.in/users/yashikav/
-  email: yashikav@cse.iitk.ac.in
-  github: 
-    
+     
 - name:  Ph.Ds@CASPER (Veerendra)
   image: assets/img/veerendra-img.jpeg
   degree: Ph.D at IIT Bombay
@@ -81,16 +72,6 @@
   profile: https://in.linkedin.com/in/jayatishrivastava
   email: jshrivastava@ee.iitr.ac.in
   github: 
-  
-- name: B.Tech. interns@CASPER (Ketan) 
-  image: assets/img/ketan.jpeg
-  degree: B.Tech at IIT Kanpur
-  year: 2019-23
-  topic: "Secure cache hierarchies"
-  profile: https://ketanch.github.io/
-  email: ketanch@iitk.ac.in
-  github: https://github.com/ketanch
-
   
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
