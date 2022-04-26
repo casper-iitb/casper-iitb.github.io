@@ -4,8 +4,9 @@
   // background-image: set in page frontmatter
   background-position: center;
   background-repeat: no-repeat;
-  background-size: contain;
-  border-radius: 10; // Should always be square, independent from $enable-rounded
+  background-size: cover;
+  height: 100vh;
+  border-radius: 0; // Should always be square, independent from $enable-rounded
   color: $white;
   position: relative; // To contain overlay
   text-align: center;
