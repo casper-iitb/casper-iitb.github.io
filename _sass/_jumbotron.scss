@@ -5,7 +5,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  border-radius: 0; // Should always be square, independent from $enable-rounded
+  border-radius: 10; // Should always be square, independent from $enable-rounded
   color: $white;
   position: relative; // To contain overlay
   text-align: center;
