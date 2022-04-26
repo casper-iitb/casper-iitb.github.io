@@ -1,12 +1,11 @@
 ---
 layout: home
 title: CASPER
-description: Computer Architecture for Security and Performance
+description: Computer Architecture for Security and Performance (A computer architect walks up to an elevator and sees a sign that says “Out of Order” ... and says “Even better!” and gets into it.)
 background: /assets/img/group-2022.png
 permalink: /
 ---
 
-A computer architect walks up to an elevator and sees a sign that says “Out of Order” ... and says “Even better!” and gets into it.
 
 
 {: .alert .alert-info}
