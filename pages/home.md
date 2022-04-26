@@ -2,16 +2,18 @@
 layout: home
 title: CASPER
 description: Computer Architecture for Security and Performance
-background: /assets/img/group-2022.png
-permalink: /
----
-
 > A computer architect walks up to an elevator and sees a sign that says “Out of Order” ... and says “Even better!” and gets into it.
 >
 > Source: Reddit
 
 {: .alert .alert-info}
 Welcome to CASPER: *Computer Architecture for Security and Performance* group! 
+
+background: /assets/img/group-2022.png
+permalink: /
+---
+
+
 
 Every wondered what components make a processor chip ? How do these components interact with each other ? What can be done to make the the processor execute your programs *faster* ? Why do we need *caches* in the memory hierarchy ? Why worry about OS-architecture interaction? Why worry about security when there are already software and OS level protection mechanisms? 
 
