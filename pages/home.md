@@ -2,7 +2,7 @@
 layout: home
 title: CASPER
 description: Computer Architecture for Security and Performance
-background: /assets/img/group-2022.png
+background: /assets/img/christian-wiediger-unsplash.jpg
 permalink: /
 ---
 
