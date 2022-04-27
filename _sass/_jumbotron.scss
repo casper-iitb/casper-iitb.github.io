@@ -11,9 +11,9 @@
   position: relative; // To contain overlay
   text-align: center;
 
-  &.bg-no-image {
-    background-color: theme-color("secondary");
-  }
+ // &.bg-no-image {
+ //   background-color: theme-color("secondary");
+ // }
 
   // Overlay
   &.bg-image:before {
