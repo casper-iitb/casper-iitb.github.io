@@ -1,7 +1,7 @@
 ---
 layout: home
 title: CASPER 
-description: Computer Architecture for Security and Performance  
+<!-- description: Computer Architecture for Security and Performance   -->
 background: /assets/img/group-2022.png
 permalink: /
 ---
