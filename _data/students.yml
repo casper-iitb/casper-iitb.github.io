@@ -74,7 +74,7 @@
   github: 
   
 - name: B.Tech. interns@CASPER (Ramya) 
-  image: assets/img/ramya.jpg
+  image: assets/img/ramya.jpeg
   degree: B.Tech at PES University
   year: 2018-22
   topic: "Criticality based Memory Systems"
@@ -83,7 +83,7 @@
   github:  https://github.com/RamyaNP
   
 - name: B.Tech. interns@CASPER (Shubdeep) 
-  image: assets/img/shub.jpg
+  image: assets/img/shub.jpeg
   degree: B.E. at BITS Pilani
   year: 2018-22
   topic: "ML for microarchitecture"
