@@ -64,14 +64,34 @@
   email: tanugoyal@cse.iitb.ac.in
   github: 
   
-- name: B.Tech. interns@CASPER (Jayati) 
-  image: assets/img/jaya.jpg
-  degree: B.Tech at IIT Roorkee
+- name: B.Tech. interns@CASPER (Sheetal) 
+  image: assets/img/sheetal.jpg
+  degree: B.Tech at PES University
   year: 2018-22
-  topic: "Quantifying microarchitecture interactions"
-  profile: https://in.linkedin.com/in/jayatishrivastava
-  email: jshrivastava@ee.iitr.ac.in
+  topic: "Criticality based Memory Systems"
+  profile: https://www.linkedin.com/in/sheetals01
+  email: sheetals410@gmail.com
   github: 
+  
+- name: B.Tech. interns@CASPER (Ramya) 
+  image: assets/img/ramya.jpg
+  degree: B.Tech at PES University
+  year: 2018-22
+  topic: "Criticality based Memory Systems"
+  profile: 
+  email: ramrag0107@gmail.com
+  github:  https://github.com/RamyaNP
+  
+- name: B.Tech. interns@CASPER (Shubdeep) 
+  image: assets/img/shub.jpg
+  degree: B.E. at BITS Pilani
+  year: 2018-22
+  topic: "ML for microarchitecture"
+  profile: 
+  email: shubdeepmohapatra01@gmail.com
+  github:  https://sites.google.com/view/shubdeepmohapatra/home
+  
+  
   
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
