@@ -34,7 +34,16 @@
   topic: "Microarchitecture for network I/O"
   profile: https://www.linkedin.com/in/hari-sharan-2657a615/
   email: harisharan@cse.iitb.ac.in
-  github:
+  github: https://github.com/munawira
+
+- name: Ph.Ds@CASPER (Munawira) 
+  image: assets/img/muna.jpg
+  degree: Ph.D at IIT Bombay
+  year: 2022 -
+  topic: "OS-microarhitecture interaction"
+  profile: https://munawira.github.io/
+  email: munawira@gmail.com
+  github: 
 
 - name:  Masters@CASPER (Debashish) 
   image: assets/img/Deba.png
