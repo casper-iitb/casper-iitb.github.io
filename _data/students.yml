@@ -2,7 +2,7 @@
 
 - name: Ph.Ds@CASPER (Arun) 
   image: assets/img/arun.jpg
-  degree: Ph.D at IIT Kanpur
+  degree: Ph.D at IIT Kanpur, primary advisor: Deba
   year: 2018-
   topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory"
   profile: https://www.cse.iitk.ac.in/users/kparun/
@@ -12,7 +12,7 @@
 - name: Ph.Ds@CASPER (Saurabh) 
   image: assets/img/saurabh.jpg
   degree: Ph.D at IIT Kanpur, Primary advisor: Sandeep 
-  year: Thesis submitted, on job market!
+  year: Thesis submitted
   topic: "Malware Analysis"
   profile: https://skmtr1.github.io/
   email: skmtr@cse.iitk.ac.in
@@ -20,7 +20,7 @@
      
 - name:  Ph.Ds@CASPER (Veerendra)
   image: assets/img/veerendra-img.jpeg
-  degree: Ph.D at IIT Bombay, coa-dvisor: Shivaram
+  degree: Ph.D at IIT Bombay, co-advisor: Shivaram
   year: 2020 -
   topic: "Reinforcement Learning for microarchitecture optimizations"
   profile: https://veerendrav.github.io/
