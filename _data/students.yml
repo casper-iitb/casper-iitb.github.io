@@ -46,7 +46,7 @@
   github: 
   
 - name: Ph.Ds@CASPER (Samiksha) 
-  image: assets/img/sami.jpeg
+  image: assets/img/sami.jpg
   degree: Ph.D at IIT Bombay
   year: 2022 -
   topic: "Microarchitecture security"
