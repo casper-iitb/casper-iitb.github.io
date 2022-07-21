@@ -11,7 +11,7 @@
   
 - name: Ph.Ds@CASPER (Saurabh) 
   image: assets/img/saurabh.jpg
-  degree: Ph.D at IIT Kanpur
+  degree: Ph.D at IIT Kanpur, Primary advisor: Sandeep 
   year: Thesis submitted, on job market!
   topic: "Malware Analysis"
   profile: https://skmtr1.github.io/
@@ -20,7 +20,7 @@
      
 - name:  Ph.Ds@CASPER (Veerendra)
   image: assets/img/veerendra-img.jpeg
-  degree: Ph.D at IIT Bombay
+  degree: Ph.D at IIT Bombay, coa-dvisor: Shivaram
   year: 2020 -
   topic: "Reinforcement Learning for microarchitecture optimizations"
   profile: https://veerendrav.github.io/
@@ -29,12 +29,12 @@
   
 - name:  Ph.Ds@CASPER (Hari)
   image: assets/img/hari-image.jpeg.png
-  degree: Ph.D at IIT Bombay
+  degree: Ph.D at IIT Bombay, Primary advisor: Mythili 
   year: 2021 -
   topic: "Microarchitecture for network I/O"
   profile: https://www.linkedin.com/in/hari-sharan-2657a615/
   email: harisharan@cse.iitb.ac.in
-  github: https://github.com/munawira
+  github: 
 
 - name: Ph.Ds@CASPER (Munawira) 
   image: assets/img/muna.jpeg
@@ -43,7 +43,7 @@
   topic: "OS-microarchitecture interaction"
   profile: https://munawira.github.io/
   email: munawira@gmail.com
-  github: 
+  github: https://github.com/munawira
   
 - name: Ph.Ds@CASPER (Samiksha) 
   image: assets/img/sami.jpg
