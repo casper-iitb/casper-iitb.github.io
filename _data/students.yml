@@ -2,7 +2,8 @@
 
 - name: Ph.Ds@CASPER (Arun) 
   image: assets/img/arun.jpg
-  degree: Ph.D at IIT Kanpur. Primary advisor: Deba. 
+  degree: Ph.D at IIT Kanpur 
+  advisor: Primary advisor: Deba 
   year: 2018-
   topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory" 
   profile: https://www.cse.iitk.ac.in/users/kparun/
@@ -11,7 +12,8 @@
   
 - name: Ph.Ds@CASPER (Saurabh) 
   image: assets/img/saurabh.jpg
-  degree: Ph.D at IIT Kanpur. Primary advisor: Sandeep. 
+  degree: Ph.D at IIT Kanpur 
+  advisor: Primary advisor: Sandeep
   year: Thesis submitted
   topic: "Malware Analysis"  
   profile: https://skmtr1.github.io/
@@ -20,7 +22,8 @@
      
 - name:  Ph.Ds@CASPER (Veerendra)
   image: assets/img/veerendra-img.jpeg
-  degree: Ph.D at IIT Bombay. Co-advisor: Shivaram. 
+  degree: Ph.D at IIT Bombay
+  advisor: Co-advisor: Shivaram 
   year: 2020 -
   topic: "Reinforcement Learning for microarchitecture optimizations" 
   profile: https://veerendrav.github.io/
@@ -29,7 +32,8 @@
   
 - name:  Ph.Ds@CASPER (Hari)
   image: assets/img/hari-image.jpeg.png
-  degree: Ph.D at IIT Bombay. Primary advisor: Mythili 
+  degree: Ph.D at IIT Bombay
+  advisor: Primary advisor: Mythili 
   year: 2021 -
   topic: "Microarchitecture for network I/O"  
   profile: https://www.linkedin.com/in/hari-sharan-2657a615/ 
@@ -54,8 +58,6 @@
   email: samiksha1998verma@gmail.com
   github:   
   
-  
-
 - name:  Masters@CASPER (Debashish) 
   image: assets/img/Deba.png
   degree: M.Tech at IIT Bombay (waiting for convocation :) )
@@ -73,7 +75,6 @@
   profile: https://www.cse.iitb.ac.in/~sumon 
   email: sumon@cse.iitb.ac.in
   github: 
-  
   
 - name: B.Techs@CASPER (Tanu) 
   image: assets/img/tanu.png
@@ -111,8 +112,7 @@
   email: shubdeepmohapatra01@gmail.com
   github:  
   
-  
-  
+ 
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
   degree: 
