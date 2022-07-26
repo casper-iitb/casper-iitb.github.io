@@ -47,8 +47,8 @@ description: Template for team page
       <h5 id="{{ member.name | strip | url_encode }}">
         <a href="{{ member.profile }}"> {{ member.name }} </a>
 
-        <!-- Add the degree and year -->
-        <small class="text-muted">| {{ member.degree }} ({{ member.year }}) </small>
+        <!-- Add the degree, year, and advisor -->
+        <small class="text-muted">| {{ member.degree }} ({{ member.year }}) ({{ member.advisor }}) </small>
       </h5>
 
       <h7 class="text-muted">Research Area:</h7> {{ member.topic | markdownify }}
