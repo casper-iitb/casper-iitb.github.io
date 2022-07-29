@@ -4,6 +4,7 @@
   image: assets/img/arun.jpg
   degree: Ph.D at IIT Kanpur 
   year: 2018-
+  advisor: Primary advisor Deba
   topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory" 
   profile: https://www.cse.iitk.ac.in/users/kparun/
   email: kparun@cse.iitk.ac.in
@@ -53,15 +54,6 @@
   profile: https://sites.google.com/iitrpr.ac.in/samikshaverma/home
   email: samiksha1998verma@gmail.com
   github:   
-  
-- name:  Masters@CASPER (Debashish) 
-  image: assets/img/Deba.png
-  degree: M.Tech at IIT Bombay (waiting for convocation :) )
-  year: 2020-22
-  topic: "Reinforcement Learning for Hardware Prefetchers"
-  profile: https://www.cse.iitb.ac.in/~debasish 
-  email: debasish@cse.iitb.ac.in
-  github: "0xd3ba"
   
 - name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
