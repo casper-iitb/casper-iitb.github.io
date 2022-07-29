@@ -76,15 +76,34 @@
   email: sumon@cse.iitb.ac.in
   github: 
   
-- name: B.Techs@CASPER (Tanu) 
-  image: assets/img/tanu.png
+- name: B.Techs@CASPER (Prajeeth) 
+  image: assets/img/prajeeth.jpeg
   degree: B.Tech at IIT Bombay
   year: 2019-23
-  topic: "Transient execution attack resilient memory hierarchy"
+  topic: "Website fingerprinting attacks"
   profile: 
-  email: tanugoyal@cse.iitb.ac.in
+  email: sprajeeth18@gmail.com
+  github: Prajeeths18
+  
+- name: B.Techs@CASPER (Girish) 
+  image: assets/img/girish.jpeg
+  degree: B.Tech at IIT Bombay
+  year: 2019-23
+  topic: "Website fingerprinting attacks"
+  profile: 
+  email: girish.srivatsa29@gmail.com
+  github: girish-srivatsa
+  
+- name: B.Techs@CASPER (Aman) 
+  image: assets/img/aman.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2019-23
+  topic: "Row-hammer attack and mitigations"
+  profile: 
+  email: amansingh@cse.iitb.ac.in
   github: 
   
+ 
 - name: B.Tech. interns@CASPER (Sheetal) 
   image: assets/img/sheetal.jpg
   degree: B.Tech at PES University
