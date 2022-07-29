@@ -1,0 +1,16 @@
+- name: B.Techs@CASPER (Tanu) 
+  image: assets/img/tanu.png
+  degree: B.Tech at IIT Bombay
+  topic: "Transient execution attack resilient memory hierarchy"
+  profile: 
+  email: tanugoyal@cse.iitb.ac.in
+  github: 
+
+
+- name:  Masters@CASPER (Debashish) 
+  image: assets/img/Deba.png
+  degree: M.Tech at IIT Bombay (waiting for convocation :) )
+  topic: "Reinforcement Learning for Hardware Prefetchers"
+  profile: https://www.cse.iitb.ac.in/~debasish 
+  email: debasish@cse.iitb.ac.in
+  github: "0xd3ba"
