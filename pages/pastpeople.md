@@ -1,7 +1,7 @@
 ---
 layout: team
-title: People
-description: Who we are
+title: Past People
+description: We used to be 
 permalink: /pastpeople/
 ---
 
