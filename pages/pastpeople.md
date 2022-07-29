@@ -1,7 +1,7 @@
 ---
 layout: team
-title: Past People
-description: We used to be 
+title: People
+description: We used to be CASPERIANS
 permalink: /pastpeople/
 ---
 
