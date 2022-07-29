@@ -4,7 +4,7 @@
   image: assets/img/arun.jpg
   degree: Ph.D at IIT Kanpur 
   year: 2018-
-  advisor: Primary advisor Deba
+  advisor: Primary advisor, Deba
   topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory" 
   profile: https://www.cse.iitk.ac.in/users/kparun/
   email: kparun@cse.iitk.ac.in
@@ -14,6 +14,7 @@
   image: assets/img/saurabh.jpg
   degree: Ph.D at IIT Kanpur 
   year: Thesis submitted
+  advisor: Primary advisor, Sandeep
   topic: "Malware Analysis"  
   profile: https://skmtr1.github.io/
   email: skmtr@cse.iitk.ac.in
@@ -23,6 +24,7 @@
   image: assets/img/veerendra-img.jpeg
   degree: Ph.D at IIT Bombay
   year: 2020 -
+  advisor: Co advisor, Shivaram
   topic: "Reinforcement Learning for microarchitecture optimizations" 
   profile: https://veerendrav.github.io/
   email: veerendra@cse.iitb.ac.in
@@ -32,6 +34,7 @@
   image: assets/img/hari-image.jpeg.png
   degree: Ph.D at IIT Bombay
   year: 2021 -
+  advisor: Primary advisor, Mythili
   topic: "Microarchitecture for network I/O"  
   profile: https://www.linkedin.com/in/hari-sharan-2657a615/ 
   email: harisharan@cse.iitb.ac.in
