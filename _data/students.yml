@@ -53,8 +53,8 @@
   image: assets/img/sami.jpg
   degree: Ph.D at IIT Bombay
   year: 2022 -
-  topic: "Microarchitecture security"
-  profile: https://sites.google.com/iitrpr.ac.in/samikshaverma/home
+  topic: Row-hammer attack and mitigations
+  profile: https://sites.google.com/iitb.ac.in/samiksha/home?authuser=1
   email: samiksha1998verma@gmail.com
   github:   
   
@@ -80,7 +80,7 @@
   image: assets/img/girish.jpeg
   degree: B.Tech at IIT Bombay
   year: 2019-23
-  topic: "Microarchitecture Website fingerprinting attacks"
+  topic: "Microarchitecture website fingerprinting attacks"
   profile: 
   email: girish.srivatsa29@gmail.com
   github: girish-srivatsa
