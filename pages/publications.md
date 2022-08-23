@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=fo
 permalink: /publications/
 
 ---
+* (**[SEED 2022] ()**) Yashika Verma, and Biswabandan Panda, “**[Avenger: Punishing the Cross-Core Last-Level Cache Attacker and Not the Victim by Isolating the Attacker]()**” to appear in the IEEE International Symposium on Secure and Private Execution Environment Design (SEED) 2022
+
 * (**[MICRO 2022](https://www.microarch.org/micro55/)**) Agustin Navarro-Torres, Biswabandan Panda, Jesus Alastruey-Benede, Pablo Ibanez, Victor Vinals-Yufera, Alberto Ros, “**[Berti: an Accurate Local-Delta Data Prefetcher](https://www.cse.iitb.ac.in/~biswa/MICRO2022.pdf)**” to appear in 55th ACM/IEEE International Conference on Microarchitecture (MICRO'22)
 
 * (**[CF 2022](https://www.computingfrontiers.org/2022/)**) Vishal Gupta and Biswabandan Panda, “**[Micro BTB: A High Performance and Storage Efficient Last-Level
