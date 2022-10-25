@@ -2,7 +2,7 @@
 layout: home
 title: CASPER 
 <!-- description: Computer Architecture for Security and Performance   -->
-background: /assets/img/group-anish.jpg
+background: /assets/img/group.jpeg
 permalink: /
 ---
 
