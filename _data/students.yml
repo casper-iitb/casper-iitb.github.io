@@ -39,15 +39,6 @@
   profile: https://veerendrav.github.io/
   email: veerendra@cse.iitb.ac.in
   github:    
-
-- name: Ph.Ds@CASPER (Munawira) 
-  image: assets/img/muna.jpeg
-  degree: Ph.D at IIT Bombay
-  year: 2022 -
-  topic: "OS-microarchitecture interaction"
-  profile: https://munawira.github.io/
-  email: munawira@gmail.com
-  github: https://github.com/munawira
   
 - name: Ph.Ds@CASPER (Samiksha) 
   image: assets/img/sami.jpg
