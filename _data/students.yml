@@ -40,15 +40,6 @@
   email: veerendra@cse.iitb.ac.in
   github:    
   
-- name: Ph.Ds@CASPER (Samiksha) 
-  image: assets/img/sami.jpg
-  degree: Ph.D at IIT Bombay
-  year: 2022 -
-  topic: Rowhammer attack and mitigations
-  profile: https://sites.google.com/iitb.ac.in/samiksha/home?authuser=1
-  email: samiksha1998verma@gmail.com
-  github:   
-  
 - name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
