@@ -1,13 +1,9 @@
 // Jumbotron
-.fullheight {
-  height: 766px;
-  padding: 1rem 2rem;
-}
 .jumbotron {
   // background-image: set in page frontmatter
   background-position: center;
   background-repeat: no-repeat;
-//   height: 120vh;
+  background-size: cover;
 
   border-radius:0; // Should always be square, independent from $enable-rounded
   color: $white;
