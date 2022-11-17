@@ -2,8 +2,8 @@
 layout: home
 title: CASPER 
 <!-- description: Computer Architecture for Security and Performance   -->
-background: 
-permalink: /assets/img/christian-wiediger-unsplash.jpg
+background:  /assets/img/christian-wiediger-unsplash.jpg
+permalink:
 ---
 
 
