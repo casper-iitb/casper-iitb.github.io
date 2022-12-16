@@ -9,16 +9,6 @@
   profile: https://www.cse.iitk.ac.in/users/kparun/
   email: kparun@cse.iitk.ac.in
   github: 
-  
-- name: Ph.Ds@CASPER (Saurabh) 
-  image: assets/img/saurabh.jpg
-  degree: Ph.D at IIT Kanpur 
-  year: Thesis submitted
-  advisor: Primary advisor, Sandeep
-  topic: "Malware Analysis"  
-  profile: https://skmtr1.github.io/
-  email: skmtr@cse.iitk.ac.in
-  github: https://github.com/skmtr1
        
 - name:  Ph.Ds@CASPER (Hari)
   image: assets/img/hari-image.jpeg.png
