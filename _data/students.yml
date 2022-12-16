@@ -66,16 +66,7 @@
   email: amansingh@cse.iitb.ac.in
   github: 
   
-  
-- name: B.Tech. interns@CASPER (Shubdeep) 
-  image: assets/img/shub.jpeg
-  degree: B.E. at BITS Pilani
-  year: 2019-23
-  topic: "ML for microarchitecture"
-  profile: https://sites.google.com/view/shubdeepmohapatra/home
-  email: shubdeepmohapatra01@gmail.com
-  github:  
-  
+    
  
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
