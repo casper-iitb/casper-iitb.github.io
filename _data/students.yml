@@ -20,16 +20,6 @@
   email: harisharan@cse.iitb.ac.in
   github: 
   
-- name: Ph.Ds@CASPER (Veerendra) 
-  image: assets/img/veerendra-img.jpeg
-  degree: Ph.D at IIT Bombay
-  year: 2020 -
-  advisor: Co-advisor, Shivaram
-  topic: Reinforcement Learning for Hardware Prefetching 
-  profile: https://veerendrav.github.io/
-  email: veerendra@cse.iitb.ac.in
-  github:    
-  
 - name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
