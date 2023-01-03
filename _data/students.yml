@@ -20,6 +20,16 @@
   email: harisharan@cse.iitb.ac.in
   github: 
   
+  
+- name:  Ph.Ds@CASPER (Shubham)
+  image: assets/img/shubham.jpg
+  degree: Ph.D at IIT Bombay
+  year: 2023 -
+  topic: "Microarchitecture for system security"  
+  profile: https://sroy729.github.io/yupp/ 
+  email: 22d0378@cse.iitb.ac.in
+  github: 
+  
 - name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
