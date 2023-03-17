@@ -49,7 +49,7 @@
   github:   
   
 - name:  Masters@CASPER (Prateek)
-  image: assets/img/pratheek.jpeg
+  image: assets/img/pratheek.jpg
   degree: M.Tech. at IIT Bombay
   year: 2022-
   topic: "Paging/TLB optimizations for data-intensive workloads"
