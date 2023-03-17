@@ -43,9 +43,18 @@
   image: assets/img/harikrishna.png
   degree: M.Tech. at IIT Bombay
   year: 2022-
-  topic: "Memory hierarchy for Graph Analytics"
+  topic: "Memory Hierarchy Optimizations for Graph Analytics"
   profile: 
   email: 22m0759@iitb.ac.in
+  github:   
+  
+- name:  Masters@CASPER (Prateek)
+  image: assets/img/pratheek.jpeg
+  degree: M.Tech. at IIT Bombay
+  year: 2022-
+  topic: "Paging/TLB optimizations for data-intensive workloads"
+  profile: 
+  email: prateekgothwal@cse.iitb.ac.in
   github:  
   
 - name: B.Techs@CASPER (Prajeeth) 
