@@ -112,6 +112,16 @@
   email:  200070018@iitb.ac.in
   github:  
   
+  
+- name: B.Techs@CASPER (Kritheesh) 
+  image: assets/img/nikhil.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2020-24
+  topic: "Non-timing side-channel attacks"
+  profile: 
+  email:  200070050@iitb.ac.in
+  github:    
+  
 - name: B.Tech interns@CASPER (Nikhita) 
   image: assets/img/niki.jpeg
   degree: B.Tech at NIT Surathkal
