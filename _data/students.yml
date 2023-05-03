@@ -75,6 +75,15 @@
   email: girish.srivatsa29@gmail.com
   github: girish-srivatsa
   
+- name: B.Techs@CASPER (Hrishikesh) 
+  image: assets/img/hrishi.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2021-25
+  topic: "Microarchitecture for datacenters"
+  profile: 
+  email: 210050073@iitb.ac.in
+  github: 
+  
 - name: B.Techs@CASPER (Aman) 
   image: assets/img/aman.jpg
   degree: B.Tech at IIT Bombay
