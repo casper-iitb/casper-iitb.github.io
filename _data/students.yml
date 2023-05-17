@@ -130,16 +130,7 @@
   profile: 
   email:  200070050@iitb.ac.in
   github:    
-  
-- name: B.Tech interns@CASPER (Nikhita) 
-  image: assets/img/niki.jpeg
-  degree: B.Tech at NIT Surathkal
-  year: 
-  topic: "Pushing the limits of hardware prefetching"
-  profile: 
-  email: nikhita.neelakanta@gmail.com
-  github: https://github.com/nikhita-n
-    
+      
  
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
