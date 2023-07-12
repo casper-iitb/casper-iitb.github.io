@@ -1,3 +1,12 @@
+- name: B.Techs@CASPER (Aman) 
+  image: assets/img/aman.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2019-23
+  topic: "Row-hammer attack and mitigations"
+  profile: 
+  email: amansingh@cse.iitb.ac.in
+  github: 
+
 - name: B.Techs@CASPER (Prajeeth) 
   image: assets/img/prajeeth.jpeg
   degree: B.Tech at IIT Bombay

@@ -75,16 +75,7 @@
   profile: 
   email: 210050073@iitb.ac.in
   github: 
-  
-- name: B.Techs@CASPER (Aman) 
-  image: assets/img/aman.jpg
-  degree: B.Tech at IIT Bombay
-  year: 2019-23
-  topic: "Row-hammer attack and mitigations"
-  profile: 
-  email: amansingh@cse.iitb.ac.in
-  github: 
-  
+
 - name: B.Techs@CASPER (Navneet) 
   image: assets/img/navneet.jpeg
   degree: B.Tech at IIT Bombay
