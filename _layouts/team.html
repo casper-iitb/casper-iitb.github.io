@@ -11,116 +11,7 @@ description: Template for team page
 <!------ Include the above in your HEAD tag ---------->
 
 <!-- Team -->
-<section id="team" class="pb-5">
-    <div class="container">
-        <div class="row">
-            <!-- Team member -->
-            {% assign faculty = site.data.faculty | sort: "name" %}
-            {% for member in faculty %}
-            <div class="col-xs-12 col-sm-6 col-md-6 px-md-5">
-                <div class="" >
-                    <div class="">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="{{ member.image | relative_url }}" alt="card image"></p>
-                                    <h4 class="card-title"><a href="{{member.profile}}">{{ member.name }}</a></h4>
-                                    <p class="card-text">{{ member.role }}</p>
-                                    <p class="card-text">{{ member.description }}</p>
-                                 </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Sunlimetech</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            {% endfor %}
-         <!-- Team member -->
-         {% assign students = site.data.students | sort: "name" | reverse %}
 
-            {% for member in students %}
-            <div class="col-xs-12 col-sm-6 col-md-6 px-md-5">
-                <div class="" >
-                    <div class="">
-                        <div class="frontside">
-                            <div class="card">
-                                <div class="card-body text-center">
-                                    <p><img class=" img-fluid" src="{{ member.image | relative_url }}" alt="card image"></p>
-                                    <h4 class="card-title"><a href="{{member.profile}}">{{ member.name }}</a></h4>
-                                    <p class="card-text">{{ member.role }}</p>
-                                    <p class="card-text">{{ member.description }}</p>
-                                 </div>
-                            </div>
-                        </div>
-                        <div class="backside">
-                            <div class="card">
-                                <div class="card-body text-center mt-4">
-                                    <h4 class="card-title">Sunlimetech</h4>
-                                    <p class="card-text">This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.This is basic card with image on top, title, description and button.</p>
-                                    <ul class="list-inline">
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-skype"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-inline-item">
-                                            <a class="social-icon text-xs-center" target="_blank" href="https://www.fiverr.com/share/qb8D02">
-                                                <i class="fa fa-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            {% endfor %}
-            <!-- ./Team member -->
-
-        </div>
-    </div>
-</section>
 <!-- Team -->
 <style>
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
@@ -270,22 +161,31 @@ box-shadow: 0px 0px 14px -5px rgba(0,0,0,0.41);
     height: 120px;
     border-radius: 50%;
 }
+.title{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    margin: 30px;
+    font-size: xxx-large;
+    font-weight: bolder;
+    color: #9b2828;
+    border-bottom: 2px solid;
+}
 </style>
+<div class="title">Current Members</div>
 <div class="row">
-{% assign faculty = site.data.faculty | sort: "name" %}
-{% for member in faculty %}
+{% assign current_member = site.data.current_member %}
+{% for member in current_member %}
   <div class="media team-member px-5 col-md-6">
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
       <h5 id="{{ member.name | strip | url_encode }}">
         <a href="{{ member.profile }}"> {{ member.name }} </a>
-        {% if member.role %}
+
+        <!-- Add the degree, year, and advisor -->
         <br>
-        <small class="text-muted">| {{ member.role }} |</small>
-        {% endif %}
+        <small class="text-muted">| {{ member.degree }} ({{ member.year }}) ({{ member.advisor }}) |</small>
       </h5>
 
-      {{ member.description | markdownify }}
+      <h7 class="text-muted">Research Area:</h7> {{ member.topic | markdownify }}
 
       <ul class="list-inline">
 
@@ -304,10 +204,12 @@ box-shadow: 0px 0px 14px -5px rgba(0,0,0,0.41);
     </div>
   </div>
 {% endfor %}
-
+</div>
+<div class="title">Alumni</div>
+<div class="row">
 <!-- Add the list of the students -->
-{% assign students = site.data.students | sort: "name" | reverse %}
-{% for member in students %}
+{% assign alumni = site.data.alumni | sort: "name" | reverse %}
+{% for member in alumni %}
 
   <div class="media team-member px-5 col-md-6">
     <img class="mr-3" src="{{ member.image | relative_url }}">
@@ -340,4 +242,5 @@ box-shadow: 0px 0px 14px -5px rgba(0,0,0,0.41);
   </div>
 {% endfor %}
 </div>
+
 
