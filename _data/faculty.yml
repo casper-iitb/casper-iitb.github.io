@@ -1,10 +1,9 @@
 # Project team members listed below will appear on the /team page
 
 - name: Biswa
-  role: # Will appear next to name
+  role: Mentoring students just for fun # Will appear next to name
   image: assets/img/faculty/biswa.jpg # Can be external link
-  description: > # Can be Markdown
-    Faculty@CSE-IITB
+  description: Faculty@CSE-IITB
   profile: https://www.cse.iitb.ac.in/~biswa/   
   email: biswa@cse.iitb.ac.in
   github: 
