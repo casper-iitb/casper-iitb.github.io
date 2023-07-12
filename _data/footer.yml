@@ -12,7 +12,7 @@ columns:
   #     href: http://example.com
   #     new_window: true
 
-  - description: > # E.g. funding acknowledgement. Can be Markdown
+  - description: <center>Special thanks to Andrea and Sumon for the development of the website</center> # E.g. funding acknowledgement. Can be Markdown
   
     links:
 
