@@ -4,6 +4,7 @@ title: Newzz
 description: What's going on?
 sitemap: false
 permalink: /news.html
+background: "https://images.pexels.com/photos/158651/news-newsletter-newspaper-information-158651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 ---
 # News
 
