@@ -1,0 +1,72 @@
+- name: M.Techs@CASPER (Debasish) 
+  image: assets/img/Deba.png
+  degree: M.Tech. at IIT Bombay
+  year: 2010-22
+  topic: "ML/RL techniques for hardware prefetching"
+  profile: 
+  email: 
+  github: 
+
+- name: B.Techs@CASPER (Aman) 
+  image: assets/img/aman.jpg
+  degree: B.Tech. at IIT Bombay
+  year: 2019-23
+  topic: "Row-hammer attack and mitigations"
+  profile: 
+  email: amansingh@cse.iitb.ac.in
+  github: 
+
+- name: B.Techs@CASPER (Prajeeth) 
+  image: assets/img/prajeeth.jpeg
+  degree: B.Tech. at IIT Bombay
+  year: 2019-23
+  topic: "Microarchitecture website fingerprinting attacks"
+  profile: 
+  email: sprajeeth18@gmail.com
+  github: Prajeeths18
+  
+- name: B.Techs@CASPER (Girish) 
+  image: assets/img/girish.jpeg
+  degree: B.Tech. at IIT Bombay
+  year: 2019-23
+  topic: "Microarchitecture website fingerprinting attacks"
+  profile: 
+  email: girish.srivatsa29@gmail.com
+  github: girish-srivatsa
+
+
+- name: Interns@CASPER (Shubdeep) 
+  image: assets/img/shub.jpeg
+  degree: B.Tech. at BITS Pilani (Visiting student researcher)
+  year: 2022
+  topic: "Computer vision for data prefetching"
+  profile: 
+  email: 
+  github: 
+
+- name: Interns@CASPER (Ramya) 
+  image: assets/img/ramya.jpeg
+  degree: B.Tech. at PES Bangalore (Google Summer Intern)
+  year: 2022
+  topic: "Revisiting instruction criticality"
+  profile: 
+  email: 
+  github: 
+
+
+- name: Interns@CASPER (Sheetal) 
+  image: assets/img/sheetal.jpg
+  degree: B.Tech. at PES Bangalore (Google Summer Intern)
+  year: 2022
+  topic: "Revisiting instruction criticality"
+  profile: 
+  email: 
+  github: 
+
+
+  
+
+
+
+
+  

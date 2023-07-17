@@ -5,50 +5,184 @@ description: Template for team page
 
 {{ content }}
 
-{% assign faculty = site.data.faculty | sort: "name" %}
-{% for member in faculty %}
-  <div class="media team-member">
-    <img class="mr-3" src="{{ member.image | relative_url }}">
-    <div class="media-body">
-      <h5 id="{{ member.name | strip | url_encode }}">
-        <a href="{{ member.profile }}"> {{ member.name }} </a>
-        {% if member.role %}
-        <small class="text-muted">| {{ member.role }}</small>
-        {% endif %}
-      </h5>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
 
-      {{ member.description | markdownify }}
+<!-- Team -->
 
-      <ul class="list-inline">
+<!-- Team -->
+<style>
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+/* #team {
+    background: #eee !important;
+} */
 
-        {% if member.email %}
-        <li class="list-inline-item">
-          <a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
-        </li>
-        {% endif %}
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #108d6f;
+    border-color: #108d6f;
+    box-shadow: none;
+    outline: none;
+}
 
-        {% if member.github %}
-        <li class="list-inline-item">
-          <a href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
-        </li>
-        {% endif %}
-      </ul>
-    </div>
-  </div>
-{% endfor %}
+.btn-primary {
+    color: #fff;
+    background-color: #007b5e;
+    border-color: #007b5e;
+}
 
-<!-- Add the list of the students -->
-{% assign students = site.data.students | sort: "name" | reverse %}
-{% for member in students %}
+section {
+    padding: 60px 0;
+}
 
-  <div class="media team-member">
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+
+#team .card {
+    border: none;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 0px 14px -5px rgba(0,0,0,0.41);
+-moz-box-shadow: 0px 0px 14px -5px rgba(0,0,0,0.41);
+box-shadow: 0px 0px 14px -5px rgba(0,0,0,0.41);
+}
+
+.image-flip:hover .backside,
+.image-flip.hover .backside {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+    -o-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+    border-radius: .25rem;
+}
+
+.image-flip:hover .frontside,
+.image-flip.hover .frontside {
+  -webkitradius: .25rem;
+}
+
+.image-flip:hover .frontside,
+.image-flip.hover .frontside {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+    -o-transform: rotateY(180deg);
+    transform: rotateY(180deg);
+}
+
+.mainflip {
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -moz-transition: 1s;
+    -moz-transform: perspective(1000px);
+    -moz-transform-style: preserve-3d;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+.frontside {
+    position: relative;
+    -webkit-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    z-index: 2;
+    margin-bottom: 30px;
+}
+
+.backside {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: white;
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+    -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+
+.frontside,
+.backside {
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: 1s;
+    -webkit-transform-style: preserve-3d;
+    -moz-transition: 1s;
+    -moz-transform-style: preserve-3d;
+    -o-transition: 1s;
+    -o-transform-style: preserve-3d;
+    -ms-transition: 1s;
+    -ms-transform-style: preserve-3d;
+    transition: 1s;
+    transform-style: preserve-3d;
+}
+
+.frontside .card,
+.backside .card {
+    min-height: 312px;
+}
+
+.backside .card a {
+    font-size: 18px;
+    color: #007b5e !important;
+}
+
+.frontside .card .card-title,
+.backside .card .card-title {
+    color: #007b5e !important;
+}
+
+.frontside .card .card-body img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+    
+
+.frontside .card .card-title,
+.backside .card .card-title {
+    color: #007b5e !important;
+}
+
+.frontside .card .card-body img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.title{
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    margin: 30px;
+    font-size: xxx-large;
+    font-weight: bolder;
+    color: #9b2828;
+    border-bottom: 2px solid;
+}
+</style>
+<div class="title">Current Members</div>
+<div class="row">
+{% assign current_member = site.data.current_member %}
+{% for member in current_member %}
+  <div class="media team-member px-5 col-md-6">
     <img class="mr-3" src="{{ member.image | relative_url }}">
     <div class="media-body">
       <h5 id="{{ member.name | strip | url_encode }}">
         <a href="{{ member.profile }}"> {{ member.name }} </a>
 
         <!-- Add the degree, year, and advisor -->
-        <small class="text-muted">| {{ member.degree }} ({{ member.year }}) ({{ member.advisor }}) </small>
+        <br>
+        <small class="text-muted">| {{ member.degree }} ({{ member.year }}) ({{ member.advisor }}) |</small>
       </h5>
 
       <h7 class="text-muted">Research Area:</h7> {{ member.topic | markdownify }}
@@ -70,5 +204,43 @@ description: Template for team page
     </div>
   </div>
 {% endfor %}
+</div>
+<div class="title">Alumni</div>
+<div class="row">
+<!-- Add the list of the students -->
+{% assign alumni = site.data.alumni | sort: "name" | reverse %}
+{% for member in alumni %}
+
+  <div class="media team-member px-5 col-md-6">
+    <img class="mr-3" src="{{ member.image | relative_url }}">
+    <div class="media-body">
+      <h5 id="{{ member.name | strip | url_encode }}">
+        <a href="{{ member.profile }}"> {{ member.name }} </a>
+
+        <!-- Add the degree, year, and advisor -->
+        <br>
+        <small class="text-muted">| {{ member.degree }} ({{ member.year }}) ({{ member.advisor }}) |</small>
+      </h5>
+
+      <h7 class="text-muted">Research Area:</h7> {{ member.topic | markdownify }}
+
+      <ul class="list-inline">
+
+        {% if member.email %}
+        <li class="list-inline-item">
+          <a href="mailto:{{ member.email }}"><i class="fa fa-envelope"></i></a>
+        </li>
+        {% endif %}
+
+        {% if member.github %}
+        <li class="list-inline-item">
+          <a href="https://github.com/{{ member.github }}"><i class="fa fa-github"></i></a>
+        </li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+{% endfor %}
+</div>
 
 

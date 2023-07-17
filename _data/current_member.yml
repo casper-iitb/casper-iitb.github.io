@@ -1,0 +1,126 @@
+- name: Biswa 
+  image: assets/img/faculty/biswa.jpg 
+  degree: Faculty@CSE-IITB 
+  year: 2020-
+  advisor: 
+  topic: "Microarchitecture performance and security" 
+  profile: https://www.cse.iitb.ac.in/~biswa/
+  email: biswa@cse.iitb.ac.in
+  github: 
+  
+  # Project team members listed below will appear on the /team page
+
+- name: Ph.Ds@CASPER (Arun) 
+  image: assets/img/arun.jpg
+  degree: Ph.D at IIT Kanpur 
+  year: 2018-
+  advisor: Primary advisor, Deba
+  topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory" 
+  profile: https://www.cse.iitk.ac.in/users/kparun/
+  email: kparun@cse.iitk.ac.in
+  github: 
+       
+- name:  Ph.Ds@CASPER (Hari)
+  image: assets/img/hari-image.jpeg.png
+  degree: Ph.D at IIT Bombay
+  year: 2021 -
+  advisor: Primary advisor, Mythili
+  topic: "Microarchitecture for network I/O"  
+  profile: https://www.linkedin.com/in/hari-sharan-2657a615/ 
+  email: harisharan@cse.iitb.ac.in
+  github: 
+  
+  
+- name:  Ph.Ds@CASPER (Shubham)
+  image: assets/img/shubham.jpg
+  degree: Ph.D at IIT Bombay
+  year: 2023 -
+  topic: "Microarchitecture for system security"  
+  profile: https://sroy729.github.io/yupp/ 
+  email: 22d0378@cse.iitb.ac.in
+  github: 
+  
+- name:  Masters@CASPER (Sumon)
+  image: assets/img/sumon.jpg
+  degree: M.S. at IIT Bombay
+  year: 2021-
+  topic: "Transient execution attacks resilient memory hierarchy"
+  profile: https://www.cse.iitb.ac.in/~sumon 
+  email: sumon@cse.iitb.ac.in
+  github: 
+  
+- name:  Masters@CASPER (HariKrishna)
+  image: assets/img/harikrishna.png
+  degree: M.Tech. at IIT Bombay
+  year: 2022-
+  topic: "Memory Hierarchy Optimizations for Graph Analytics"
+  profile: 
+  email: 22m0759@iitb.ac.in
+  github:   
+  
+- name:  Masters@CASPER (Prateek)
+  image: assets/img/pratheek.jpg
+  degree: M.Tech. at IIT Bombay
+  year: 2022-
+  topic: "Paging/TLB optimizations for data-intensive workloads"
+  profile: 
+  email: prateekgothwal@cse.iitb.ac.in
+  github:  
+  
+- name: B.Techs@CASPER (Hrishikesh) 
+  image: assets/img/hrishi.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2021-25
+  topic: "Microarchitecture for datacenters"
+  profile: 
+  email: 210050073@iitb.ac.in
+  github: 
+
+- name: B.Techs@CASPER (Navneet) 
+  image: assets/img/navneet.jpeg
+  degree: B.Tech at IIT Bombay
+  year: 2020-24
+  topic: "Secure and Randomized Caches"
+  profile: 
+  email: 200070048@iitb.ac.in
+  github:  
+  
+- name: B.Techs@CASPER (Anubhav) 
+  image: assets/img/anubhav.jpeg
+  degree: B.Tech at IIT Bombay
+  year: 2020-24
+  topic: "Secure and Randomized Caches"
+  profile: 
+  email: 200070008@iitb.ac.in
+  github:  
+  
+  
+- name: B.Techs@CASPER (Kritheesh) 
+  image: assets/img/kritish.jpeg
+  degree: B.Tech at IIT Bombay
+  year: 2020-24
+  topic: "Agile and Stealthy Cache attacks"
+  profile: 
+  email:  200070018@iitb.ac.in
+  github:  
+  
+  
+- name: B.Techs@CASPER (Nikhil) 
+  image: assets/img/Nikhil.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2020-24
+  topic: "Non-timing side-channel attacks"
+  profile: 
+  email:  200070050@iitb.ac.in
+  github:    
+      
+ 
+- name: ABC@CASPER (Is this you?) 
+  image: assets/img/this.jpg
+  degree: 
+  year: 20XX-YY
+  topic: "Everything in Computer Architecture"
+  profile: 
+  email: unknown
+  github:  
+  

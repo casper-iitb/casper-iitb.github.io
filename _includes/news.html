@@ -1,0 +1,32 @@
+<style>
+.well {
+  min-height: 20px;
+  padding: 19px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: rgb(227, 232, 236);
+  border: 1px solid #e2dbdb;
+  border-radius: 15px;
+  
+}
+.well blockquote {  }
+.well-lg {
+  padding: 24px;
+  border-radius: 15px;
+}
+.well-sm {
+  padding: 9px;
+  border-radius: 15px;
+}
+</style>
+<div class="well">
+<h4>News</h4>
+
+{% for article in site.data.news limit:9 %}
+<div><b>{{ article.date }}</b>{{ article.headline | markdownify}}</div>
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/news.html">... see all News</a></h4>
+
+    </div>
+
