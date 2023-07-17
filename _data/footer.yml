@@ -12,10 +12,8 @@ columns:
   #     href: http://example.com
   #     new_window: true
 
-  - description: <center>Special thanks to Andrea and Sumon for the development of the website</center> # E.g. funding acknowledgement. Can be Markdown
+  - description: This site is currently maintained by Shubham Roy. Special thanks to Andrea and Sumon for the development of the websited. # E.g. funding acknowledgement. Can be Markdown
   
-    links:
-
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 license: >
