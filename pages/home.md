@@ -29,7 +29,7 @@ We, CASPER Research Group, are a group of folks from [Department of Computer Sci
 
 The group has started in May 2021 at IIT Bombay and a lot is on the way from us... Please do get in touch with any group member for more about CASPER. Thanks to Qualcomm, Google Research, Intel labs, NXP, and Trust Lab for all the support. 
 
- 
+We have also started weekly reading group where we discuss intersting topic related to computer architecture. Click [here](https://casper-reading-group.carrd.co/#) for more details. 
 
 ---
 
