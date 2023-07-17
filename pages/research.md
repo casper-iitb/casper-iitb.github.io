@@ -20,7 +20,7 @@ background : "https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg
 - ML/RL for architecture: ML/RL for microarchitecture optimizations, Application specific microarchitecture
 andrea
 
-Thanks to Intel Research, Google, Qualcomm, and NXP for funding my research interests.
+Thanks to Intel Research, Google, Qualcomm, and NXP for funding our research interests.
 
 
 <!-- 
@@ -29,4 +29,4 @@ Thanks to Intel Research, Google, Qualcomm, and NXP for funding my research inte
 One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB. -->
 
 
-### ... and more.
+# ... and more.
