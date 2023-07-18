@@ -1,5 +1,5 @@
-- name: Ph.Ds@CASPER (Debasish) 
-  image: assets/img/saurabh.png
+- name: Ph.Ds@CASPER (Saurabh) 
+  image: assets/img/saurabh.jpg
   degree: Ph.D. at IIT Kanpur
   year: 2015-22
   topic: "Android Malware Detection and Classification"
