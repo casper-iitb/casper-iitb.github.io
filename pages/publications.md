@@ -5,24 +5,24 @@ background: https://images.unsplash.com/photo-1669348849154-25e23e2ccf05?ixlib=r
 permalink: /publications/
 
 ---
-* (**[SEED 2022](https://seed22.engr.uconn.edu/)**) Yashika Verma, and Biswabandan Panda, “**[Avenger: Punishing the Cross-Core Last-Level Cache Attacker and Not the Victim by Isolating the Attacker](https://www.cse.iitb.ac.in/~biswa/SEED.pdf)**” in the IEEE International Symposium on Secure and Private Execution Environment Design (SEED) 2022
+* (**[SEED 2022](https://seed22.engr.uconn.edu/)**) Yashika Verma, and Biswabandan Panda, “**[Avenger: Punishing the Cross-Core Last-Level Cache Attacker and Not the Victim by Isolating the Attacker](https://www.cse.iitb.ac.in/~biswa/SEED.pdf)**” in the IEEE International Symposium on Secure and Private Execution Environment Design (SEED'22)
 
 * (**[MICRO 2022](https://www.microarch.org/micro55/)**) Agustin Navarro-Torres, Biswabandan Panda, Jesus Alastruey-Benede, Pablo Ibanez, Victor Vinals-Yufera, Alberto Ros, “**[Berti: an Accurate Local-Delta Data Prefetcher](https://www.cse.iitb.ac.in/~biswa/MICRO22.pdf)**” to appear in 55th ACM/IEEE International Conference on Microarchitecture (MICRO'22)
 
 * (**[CF 2022](https://www.computingfrontiers.org/2022/)**) Vishal Gupta and Biswabandan Panda, “**[Micro BTB: A High Performance and Storage Efficient Last-Level
 Branch Target Buffer for Servers](https://www.cse.iitb.ac.in/~biswa/CF2022.pdf)**” in 19th ACM International Conference on Computing Frontiers (CF'22)
 
-* (**[ISPASS 2022](https://ispass.org/ispass2022/)**) Vasudha and Biswabandan Panda, “**[Address Translation Conscious Caching and Prefetching for High Performance Cache Hierarchy](https://www.cse.iitb.ac.in/~biswa/ISPASS22.pdf)**” in IEEE International Symposium on Performance Analysis of Systems and Software, 2022
+* (**[ISPASS 2022](https://ispass.org/ispass2022/)**) Vasudha and Biswabandan Panda, “**[Address Translation Conscious Caching and Prefetching for High Performance Cache Hierarchy](https://www.cse.iitb.ac.in/~biswa/ISPASS22.pdf)**” in IEEE International Symposium on Performance Analysis of Systems and Software, 2022  (ISPASS '22)
 
-* (**[WOOT 2022](https://www.ieee-security.org/TC/SP2022/WOOT22/index.html)**) Anish Saxena and Biswabandan Panda, “**[DABANGG: A Case for Noise Resilient Flush-Based Cache Attacks](https://www.cse.iitb.ac.in/~biswa/WOOT22.pdf)**” in WOOT 2022
+* (**[WOOT 2022](https://www.ieee-security.org/TC/SP2022/WOOT22/index.html)**) Anish Saxena and Biswabandan Panda, “**[DABANGG: A Case for Noise Resilient Flush-Based Cache Attacks](https://www.cse.iitb.ac.in/~biswa/WOOT22.pdf)**” in WOOT'22
 
-* (**[HOST 2022](http://www.hostsymposium.org/)**) Yashika Verma, Dixit Kumar, and Biswabandan Panda, “**[EnclaveSim:A Micro-architectural Simulator with Enclave Support](https://www.cse.iitb.ac.in/~biswa/HOST_enclavesim.pdf)**” to appear in IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022
+* (**[HOST 2022](http://www.hostsymposium.org/)**) Yashika Verma, Dixit Kumar, and Biswabandan Panda, “**[EnclaveSim:A Micro-architectural Simulator with Enclave Support](https://www.cse.iitb.ac.in/~biswa/HOST_enclavesim.pdf)**” to appear in IEEE International Symposium on Hardware Oriented Security and Trust (HOST '22)
 
-* (**[HOST 2022](http://www.hostsymposium.org/)**) Tarun Solanki and Biswabandan Panda, “**[SpecPref: High Performing Speculative Attacks Resilient Hardware Prefetchers](https://www.cse.iitb.ac.in/~biswa/Specpref-final.pdf)**” to appear in IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2022, (**[Winner of MICRO-SRC 2021](https://www.dropbox.com/s/to1eshh8rq7v5kg/Tarun-MICROSRC.jpg?dl=0)**
+* (**[HOST 2022](http://www.hostsymposium.org/)**) Tarun Solanki and Biswabandan Panda, “**[SpecPref: High Performing Speculative Attacks Resilient Hardware Prefetchers](https://www.cse.iitb.ac.in/~biswa/Specpref-final.pdf)**” to appear in IEEE International Symposium on Hardware Oriented Security and Trust (HOST '22), (**[Winner of MICRO-SRC 2021](https://www.dropbox.com/s/to1eshh8rq7v5kg/Tarun-MICROSRC.jpg?dl=0)**
 
-* (**[MSR 2022](https://conf.researchr.org/home/msr-2022)**) Arun KP, Saurabh Kumar, Debadatta Mishra, and Biswabandan Panda ,“**[SniP: An Efficient Stack Tracing Framework for Multi-threaded Programs](https://www.cse.iitb.ac.in/~biswa/MSR22-2.pdf)**,” In Proceedings of The 2022 Mining Software Repositories Conference
+* (**[MSR 2022](https://conf.researchr.org/home/msr-2022)**) Arun KP, Saurabh Kumar, Debadatta Mishra, and Biswabandan Panda ,“**[SniP: An Efficient Stack Tracing Framework for Multi-threaded Programs](https://www.cse.iitb.ac.in/~biswa/MSR22-2.pdf)**,” In Proceedings of The 2022 Mining Software Repositories Conference (MSR '22)
 
-* (**[MSR 2022](https://conf.researchr.org/home/msr-2022)**)  Saurabh Kumar, Debadatta Mishra, Biswabandan Panda and Sandeep Shukla,“**[AndroOBFS: Time-tagged Obfuscated Android Malware Dataset with Family Information](https://www.cse.iitb.ac.in/~biswa/MSR22-1.pdf)**,” In Proceedings of The 2022 Mining Software Repositories Conference
+* (**[MSR 2022](https://conf.researchr.org/home/msr-2022)**)  Saurabh Kumar, Debadatta Mishra, Biswabandan Panda and Sandeep Shukla,“**[AndroOBFS: Time-tagged Obfuscated Android Malware Dataset with Family Information](https://www.cse.iitb.ac.in/~biswa/MSR22-1.pdf)**,” In Proceedings of The 2022 Mining Software Repositories Conference (MSR '22)
 
  * [2021] 
 
