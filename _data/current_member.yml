@@ -37,9 +37,18 @@
   year: 2023 -
   topic: "Microarchitecture for system security"  
   profile: https://sroy729.github.io/yupp/ 
-  email: 22d0378@cse.iitb.ac.in
+  email: royshubham@cse.iitb.ac.in
   github: 
   
+- name:  Ph.Ds@CASPER (Ravi)
+  image: assets/img/ravi.jpg
+  degree: Ph.D at IIT Bombay
+  year: 2023 -
+  topic: "Microarchitecture for system security"  
+  profile:  
+  email: ravichoubey@cse.iitb.ac.in 
+  github: 
+
 - name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
@@ -66,7 +75,34 @@
   profile: 
   email: prateekgothwal@cse.iitb.ac.in
   github:  
-  
+
+- name: Master@CASPER (Prerna) 
+  image: assets/img/prerna.jpg
+  degree: M.S. at IIT Bombay
+  year: 2023-
+  topic: "computer architecture security"
+  profile: 
+  email: 23m2115@iitb.ac.in 
+  github:
+
+- name: Master@CASPER (Nishkarsh) 
+  image: assets/img/nishkarsh.jpg
+  degree: M.S. at IIT Bombay
+  year: 2023-
+  topic: "computer architecture security"
+  profile: 
+  email: nishkarsh@cse.iitb.ac.in 
+  github:
+
+- name: Master@CASPER (Naman) 
+  image: assets/img/naman.jpg
+  degree: M.S. at IIT Bombay
+  year: 2023-
+  topic: "computer architecture security"
+  profile: 
+  email: namansharma@cse.iitb.ac.in 
+  github:
+
 - name: B.Techs@CASPER (Hrishikesh) 
   image: assets/img/hrishi.jpg
   degree: B.Tech at IIT Bombay
@@ -114,7 +150,7 @@
   email:  200070050@iitb.ac.in
   github:    
       
- 
+
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
   degree: 
