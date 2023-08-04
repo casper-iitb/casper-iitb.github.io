@@ -1,5 +1,5 @@
 ---
-title: "Casper@Research"
+title: "Research@Casper"
 layout: textlay
 excerpt: "This is the Way"
 permalink: /research/
