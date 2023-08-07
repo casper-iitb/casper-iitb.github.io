@@ -17,6 +17,8 @@ carousels:
     - image: /uploads/slider/image9.jpg
     - image: /uploads/slider/image10.jpg
     - image: /uploads/slider/image11.jpg
+    - image: /uploads/slider/image12.jpg
+
 ---
 
 
