@@ -139,16 +139,7 @@
   profile: 
   email:  200070018@iitb.ac.in
   github:  
-  
-  
-- name: B.Techs@CASPER (Nikhil) 
-  image: assets/img/Nikhil.jpg
-  degree: B.Tech at IIT Bombay
-  year: 2020-24
-  topic: "Non-timing side-channel attacks"
-  profile: 
-  email:  200070050@iitb.ac.in
-  github:    
+     
       
 
 - name: ABC@CASPER (Is this you?) 
