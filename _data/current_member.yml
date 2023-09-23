@@ -104,8 +104,9 @@
   github:
   
 - name: Masters@CASPER(Vedant)
+  image: assets/img/vedant.jpg
   degree: MS at IIT Bombay
-  year: (2023-)
+  year: 2023-
   topic: "Microarchitecture for datacenters"
   profile: https://github.com/VedantK11/vedantk.github.io
   email:  23m2108@iitb.ac.in
