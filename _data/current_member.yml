@@ -45,7 +45,7 @@
   degree: Ph.D at IIT Bombay
   year: 2023 -
   topic: "Microarchitecture for system security"  
-  profile:  
+  profile: https://archidemisorravi.github.io/ 
   email: ravichoubey@cse.iitb.ac.in 
   github: 
 
@@ -81,7 +81,7 @@
   degree: M.S. at IIT Bombay
   year: 2023-
   topic: "computer architecture security"
-  profile: 
+  profile: https://14prerna.github.io/prerna/ 
   email: 23m2115@iitb.ac.in 
   github:
 
@@ -102,6 +102,14 @@
   profile: https://naman5555sharma.github.io/my-website/
   email: namansharma@cse.iitb.ac.in 
   github:
+  
+- name: Masters@CASPER(Vedant)
+  degree: MS at IIT Bombay
+  year: (2023-)
+  topic: "Microarchitecture for datacenters"
+  profile: https://github.com/VedantK11/vedantk.github.io
+  email:  23m2108@iitb.ac.in
+  github: https://github.com/VedantK11
 
 - name: B.Techs@CASPER (Hrishikesh) 
   image: assets/img/hrishi.jpg
