@@ -6,6 +6,7 @@ background: "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=
 permalink: /
 carousels:
   - images: 
+    - image: /uploads/slider/image15.jpg
     - image: /uploads/slider/image14.jpg
     - image: /uploads/slider/image13.jpg
     - image: /uploads/slider/image12.jpg
