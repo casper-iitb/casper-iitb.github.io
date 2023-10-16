@@ -53,7 +53,7 @@
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
   year: 2021-
-  topic: "Transient execution attacks resilient memory hierarchy"
+  topic: "Secure Prefetching"
   profile: https://www.cse.iitb.ac.in/~sumon 
   email: sumon@cse.iitb.ac.in
   github: 
@@ -80,7 +80,7 @@
   image: assets/img/prerna.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "computer architecture security"
+  topic: "Computer architecture security"
   profile: https://14prerna.github.io/prerna/ 
   email: 23m2115@iitb.ac.in 
   github:
@@ -89,7 +89,7 @@
   image: assets/img/nishkarsh.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "computer architecture security"
+  topic: "Computer architecture security"
   profile: https://nish-97.github.io/ 
   email: nishkarsh@cse.iitb.ac.in 
   github:
@@ -98,7 +98,7 @@
   image: assets/img/naman.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "computer architecture security"
+  topic: "Computer architecture security"
   profile: https://naman5555sharma.github.io/my-website/
   email: namansharma@cse.iitb.ac.in 
   github:
@@ -118,7 +118,7 @@
   year: 2021-25
   topic: "Microarchitecture for datacenters"
   profile: 
-  email: 210050073@iitb.ac.in
+  email: hrishijd@iitb.ac.in
   github: 
 
 - name: B.Techs@CASPER (Navneet) 
@@ -148,6 +148,16 @@
   profile: https://e-kritheesh.github.io/ 
   email:  200070018@iitb.ac.in
   github:  
+
+- name: B.Techs@CASPER (Khushang Singla) 
+  image: assets/img/khalistani.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2021-25
+  topic: "Offensive Security"
+  profile: https://www.cse.iitb.ac.in/~khushangsingla 
+  email: 210050085@iitb.ac.in
+  github: khushangsingla 
+
      
       
 
