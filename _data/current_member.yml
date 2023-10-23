@@ -44,7 +44,7 @@
   image: assets/img/ravi.jpg
   degree: Ph.D at IIT Bombay
   year: 2023 -
-  topic: "Microarchitecture for system security"  
+  topic: "Rowhammer attacks"  
   profile: https://archidemisorravi.github.io/ 
   email: ravichoubey@cse.iitb.ac.in 
   github: 
@@ -80,7 +80,7 @@
   image: assets/img/prerna.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "Computer architecture security"
+  topic: "Secure cache partitioning"
   profile: https://14prerna.github.io/prerna/ 
   email: 23m2115@iitb.ac.in 
   github:
@@ -89,7 +89,7 @@
   image: assets/img/nishkarsh.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "Computer architecture security"
+  topic: "Secure memory hierarchy"
   profile: https://nish-97.github.io/ 
   email: nishkarsh@cse.iitb.ac.in 
   github:
@@ -98,7 +98,7 @@
   image: assets/img/naman.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "Computer architecture security"
+  topic: "Data prefetcher for server"
   profile: https://naman5555sharma.github.io/my-website/
   email: namansharma@cse.iitb.ac.in 
   github:
@@ -122,7 +122,7 @@
   github: 
 
 - name: B.Techs@CASPER (Navneet) 
-  image: assets/img/navneet.jpeg
+  image: assets/img/navneet.jpg
   degree: B.Tech at IIT Bombay
   year: 2020-24
   topic: "Secure and Randomized Caches"
@@ -153,7 +153,7 @@
   image: assets/img/khalistani.jpg
   degree: B.Tech at IIT Bombay
   year: 2021-25
-  topic: "Offensive Security"
+  topic: "Microarchitecture attacks"
   profile: https://www.cse.iitb.ac.in/~khushangsingla 
   email: 210050085@iitb.ac.in
   github: khushangsingla 
