@@ -18,7 +18,7 @@ background : "https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg
 - Memory hierarchy optimizations: Data prefetching, instruction prefetching, microarchitecure-interactions, shared resource management, front-end and back-end bottleneck mitigation techniques keeping performance and power in mind
 - Architecture-OS interaction: TLB/Page-table-walker optimizations, memory hierarchy for virtualization, memory hierarchy for high-speed network I/O (Intel DDIO kinda), persistent memory optimizations (Intel Optane kinda)
 - ML/RL for architecture: ML/RL for microarchitecture optimizations, Application specific microarchitecture
-andrea
+
 
 Thanks to Intel Research, Google, Qualcomm, and NXP for funding our research interests.
 
