@@ -1,9 +1,10 @@
 ---
 title: Publications
 description: One-stop page for all CASPER's publications
-background: https://images.unsplash.com/photo-1669348849154-25e23e2ccf05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1548&q=80
+background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
 permalink: /publications/
 
+---
 * (**[HPCA 2024](https://hpca-conf.org/2024/)**) Arun KP, Debadatta Mishra, Biswabandan Panda, “**[Prosper: Program Stack Persistence in Hybrid Memory Systems](https://www.cse.iitb.ac.in/~biswa/HPCA24.pdf)**” in 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA '24) 
  
 * (**[MICRO 2023](https://www.microarch.org/micro56/)**) Biswabandan Panda, “**[CLIP: Load Criticality based Data Prefetching for Bandwidth-constrained Many-core Systems](https://www.cse.iitb.ac.in/~biswa/MICRO23.pdf)**” in 56th ACM/IEEE International Conference on Microarchitecture (MICRO'23)
