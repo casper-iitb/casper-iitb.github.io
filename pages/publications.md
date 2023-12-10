@@ -4,7 +4,6 @@ description: One-stop page for all CASPER's publications
 background: https://images.unsplash.com/photo-1669348849154-25e23e2ccf05?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1548&q=80
 permalink: /publications/
 
-
 * (**[HPCA 2024](https://hpca-conf.org/2024/)**) Arun KP, Debadatta Mishra, Biswabandan Panda, “**[Prosper: Program Stack Persistence in Hybrid Memory Systems](https://www.cse.iitb.ac.in/~biswa/HPCA24.pdf)**” in 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA '24) 
  
 * (**[MICRO 2023](https://www.microarch.org/micro56/)**) Biswabandan Panda, “**[CLIP: Load Criticality based Data Prefetching for Bandwidth-constrained Many-core Systems](https://www.cse.iitb.ac.in/~biswa/MICRO23.pdf)**” in 56th ACM/IEEE International Conference on Microarchitecture (MICRO'23)
@@ -13,7 +12,7 @@ permalink: /publications/
 
 *  (**[HiPC 2023](https://hipc.org/)**) Hari Sharan, Mythili Vutukuru, and Biswabandan Panda, “**[DDIOSim: A Microarchitecture Simulator for Data Direct I/O Technology](https://www.cse.iitb.ac.in/~biswa/HiPC23.pdf)**” in 30th  International Conference on High-Performance Computing, Data, and Analytics (HiPC'23)
   
-* (**[SEED 2022](https://seed22.engr.uconn.edu/)**) Yashika Verma, and Biswabandan Panda, “**[Avenger: Punishing the Cross-Core Last-Level Cache Attacker and Not the Victim by Isolating the Attacker](https://www.cse.iitb.ac.in/~biswa/SEED.pdf)**” in the IEEE International Symposium on Secure and Private Execution Environment Design (SEED'22)
+* (**[SEED 2022](https://seed22.engr.uconn.edu/)**) Yashika Verma, and Biswabandan Panda, “**[Avenger: Punishing the Cross-Core Last-Level Cache Attacker and Not the Victim by Isolating the Attacker](https://www.cse.iitb.ac.in/~biswa/SEED.pdf)**” in 2nd IEEE International Symposium on Secure and Private Execution Environment Design (SEED'22)
 
 * (**[MICRO 2022](https://www.microarch.org/micro55/)**) Agustin Navarro-Torres, Biswabandan Panda, Jesus Alastruey-Benede, Pablo Ibanez, Victor Vinals-Yufera, Alberto Ros, “**[Berti: an Accurate Local-Delta Data Prefetcher](https://www.cse.iitb.ac.in/~biswa/MICRO22.pdf)**” in 55th ACM/IEEE International Conference on Microarchitecture (MICRO'22)
 
