@@ -6,24 +6,24 @@ background: "https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=
 permalink: /
 carousels:
   - images: 
-    - image: /uploads/slider/image18.jpg
-    - image: /uploads/slider/image17.jpg
-    - image: /uploads/slider/image16.jpg
-    - image: /uploads/slider/image15.jpg
-    - image: /uploads/slider/image14.jpg
-    - image: /uploads/slider/image13.jpg
-    - image: /uploads/slider/image12.jpg
-    - image: /uploads/slider/image11.jpg
-    - image: /uploads/slider/image10.jpg
-    - image: /uploads/slider/image9.jpg
-    - image: /uploads/slider/image8.jpg
-    - image: /uploads/slider/image7.jpg
-    - image: /uploads/slider/image6.jpg
-    - image: /uploads/slider/image5.jpg
-    - image: /uploads/slider/image4.jpg
-    - image: /uploads/slider/image3.jpg
-    - image: /uploads/slider/image2.jpg
-    - image: /uploads/slider/image1.jpg
+    - image: /uploads/slider/img18.jpg
+    - image: /uploads/slider/img17.jpg
+    - image: /uploads/slider/img16.jpg
+    - image: /uploads/slider/img15.jpg
+    - image: /uploads/slider/img14.jpg
+    - image: /uploads/slider/img13.jpg
+    - image: /uploads/slider/img12.jpg
+    - image: /uploads/slider/img11.jpg
+    - image: /uploads/slider/img10.jpg
+    - image: /uploads/slider/img9.jpg
+    - image: /uploads/slider/img8.jpg
+    - image: /uploads/slider/img7.jpg
+    - image: /uploads/slider/img6.jpg
+    - image: /uploads/slider/img5.jpg
+    - image: /uploads/slider/img4.jpg
+    - image: /uploads/slider/img3.jpg
+    - image: /uploads/slider/img2.jpg
+    - image: /uploads/slider/img1.jpg
 
 ---
 
