@@ -49,6 +49,15 @@
   email: ravichoubey@cse.iitb.ac.in 
   github: 
 
+- name:  Ph.Ds@CASPER (Sweta)
+  image: assets/img/sweta.jpg
+  degree: Ph.D at IIT Bombay
+  year: 2024 -
+  topic: "Last level cache for server"  
+  profile: https://sweta-8.github.io/ 
+  email: sweta@cse.iitb.ac.in 
+  github: 
+
 - name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
@@ -112,6 +121,34 @@
   email:  23m2108@iitb.ac.in
   github: https://github.com/VedantK11
 
+- name:  Masters@CASPER (Giriraj)
+  image: assets/img/giriraj.jpg
+  degree: M.Tech. at IIT Bombay
+  year: 2023-
+  topic: "3D cache"
+  profile: http://rajsng3737.github.io/ 
+  email: rajsng3737@gmail.com
+  github:  
+
+- name:  Masters@CASPER (Abhishek)
+  image: assets/img/abhishek.jpg
+  degree: M.Tech. at IIT Bombay
+  year: 2023-
+  topic: "TLB performance optimization"
+  profile: https://abhishekjagushte.github.io/
+  email: abhishekjagushte@gmail.com 
+  github:  
+
+- name:  Masters@CASPER (Prathamesh)
+  image: assets/img/prathamesh.jpg
+  degree: M.Tech. at IIT Bombay
+  year: 2023-
+  topic: "Architectural optimization for recommendation systems" 
+  profile: https://pnavale2409.github.io/
+  email: navaleprathamesh2409@gmail.com
+  github:  
+
+
 - name: B.Techs@CASPER (Hrishikesh) 
   image: assets/img/hrishi.jpg
   degree: B.Tech at IIT Bombay
@@ -158,8 +195,14 @@
   email: 210050085@iitb.ac.in
   github: khushangsingla 
 
-     
-      
+- name: Intern@CASPER (Karthik) 
+  image: assets/img/karthik.jpg
+  degree: B.Tech at Sardar Patel Institute Of Technology (IRCC Intern)
+  year: 2024
+  topic: "Reinforcement Learning for microarchitecture decision making"
+  profile: 
+  email: 
+  github:
 
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
