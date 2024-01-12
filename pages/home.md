@@ -45,7 +45,7 @@ The group started in May 2021 at IIT Bombay and a lot is on the way from us... P
 {: .alert .alert-info}
 We have also started a weekly reading group where we discuss interesting topics related to computer architecture. Click [here](https://casper-reading-group.carrd.co/#) for more details. 
 
-{: .alert .alert-info}
+{: .alert .alert-danger}
 Join us for monthly online talk series on top quality computer systems research done by Indian students. Click [here](https://www.cse.iitb.ac.in/~biswa/systalksind.html) for more details. 
 
 ---
