@@ -1,7 +1,6 @@
 ---
 title: "Research@Casper"
 layout: textlay
-excerpt: "This is the Way"
 permalink: /research/
 background : "https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 
