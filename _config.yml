@@ -38,6 +38,8 @@ exclude:
   - package.json
   - petridish.gemspec
 
+excerpt_separator: "----" 
+
 # FRONTMATTER DEFAULTS
 defaults:
   -
