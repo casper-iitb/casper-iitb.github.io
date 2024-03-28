@@ -41,6 +41,7 @@ carousels:
 <!-- {: .alert .alert-info} -->
 **Welcome to CASPER: *Computer Architecture for Security and Performance Research* group!** 
 
+{: .alert .alert-danger}
 News Alert: [M.S./Ph.D. admissions 2024](https://www.dropbox.com/scl/fi/pw4keljiych5xww3gxzd7/CASPER-Admissions.pptx?rlkey=kiiu1uw3rva9nyn6j81wai0rr&dl=0)
 
 Ever wondered what components make a processor chip? How do these components interact with each other? What can be done to make the processor execute your programs *faster*? Why do we need *caches* in the memory hierarchy? Why worry about OS-architecture interaction? Why worry about security when there are already software and OS-level protection mechanisms? 
@@ -55,7 +56,7 @@ CASPER is one of the groups in India that does top-quality computer architecture
 {: .alert .alert-info}
 We also have a weekly reading group to discuss interesting computer architecture topics. Click [here](https://casper-reading-group.carrd.co/#) for more details. 
 
-{: .alert .alert-danger}
+{: .alert .alert-info}
 Join us for a monthly online talk series on top-quality computer systems research by Indian students. Click [here](https://www.cse.iitb.ac.in/~biswa/systalksind.html) for more details. 
 
 ---
