@@ -41,7 +41,7 @@ carousels:
 <!-- {: .alert .alert-info} -->
 **Welcome to CASPER: *Computer Architecture for Security and Performance Research* group!** 
 
-News Alert: [M.S./Ph.D. admissions 2024] (https://www.dropbox.com/scl/fi/pw4keljiych5xww3gxzd7/CASPER-Admissions.pptx?rlkey=kiiu1uw3rva9nyn6j81wai0rr&dl=0)
+News Alert: [M.S./Ph.D. admissions 2024](https://www.dropbox.com/scl/fi/pw4keljiych5xww3gxzd7/CASPER-Admissions.pptx?rlkey=kiiu1uw3rva9nyn6j81wai0rr&dl=0)
 
 Ever wondered what components make a processor chip? How do these components interact with each other? What can be done to make the processor execute your programs *faster*? Why do we need *caches* in the memory hierarchy? Why worry about OS-architecture interaction? Why worry about security when there are already software and OS-level protection mechanisms? 
 
