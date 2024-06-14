@@ -176,6 +176,15 @@
   email: 210050085@iitb.ac.in
   github: khushangsingla 
 
+- name: Pre-Doctoral@CASPER (Dhruv Kumar) 
+  image: assets/img/dhruv.jpg
+  degree: Pre-doctoral researcher at IIT Bombay
+  year: 2024-25
+  topic: "Tracking and Mitigating Row-Hammer Attack in Data Centers"
+  profile: https://www.linkedin.com/in/dhruvkumar05 
+  email: dhruv.kumar@iitg.ac.in 
+  github: https://github.com/Dhruv-Kumar-1
+
 - name: Intern@CASPER (Karthik) 
   image: assets/img/karthik.jpg
   degree: B.Tech at Sardar Patel Institute Of Technology (IRCC Intern)
