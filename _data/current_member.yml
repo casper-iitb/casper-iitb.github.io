@@ -185,15 +185,6 @@
   email: dhruv.kumar@iitg.ac.in 
   github: https://github.com/Dhruv-Kumar-1
 
-- name: Intern@CASPER (Karthik) 
-  image: assets/img/karthik.jpg
-  degree: B.Tech at Sardar Patel Institute Of Technology (IRCC Intern)
-  year: 2024
-  topic: "Reinforcement Learning for microarchitecture decision making"
-  profile: 
-  email: 
-  github:
-
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
   degree: 
