@@ -5,6 +5,9 @@ background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=fo
 permalink: /publications/
 
 ---
+* (**[ISCA 2024](https://iscaconf.org/isca2024/)**) Anubhav Bhatla, Navneet, and Biswabandan Panda, “**[The Maya Cache: A Storage-efficient and Secure
+Fully-associative Last-level Cache](https://www.cse.iitb.ac.in/~biswa/ISCA2024.pdf)**” in ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA '24)
+
 * (**[HOST 2024](http://www.hostsymposium.org/)**) Aman Singh and Biswabandan Panda, “**[RowHammer Cache: A Last-level Cache for Low-Overhead Row-Hammer Tracking](https://www.cse.iitb.ac.in/~biswa/HOST2024.pdf)**” in 17th IEEE IEEE International Symposium on Hardware Oriented Security and Trust (HOST '24)
 
 * (**[HPCA 2024](https://hpca-conf.org/2024/)**) Arun KP, Debadatta Mishra, Biswabandan Panda, “**[Prosper: Program Stack Persistence in Hybrid Memory Systems](https://www.cse.iitb.ac.in/~biswa/HPCA24.pdf)**” in 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA '24) 
