@@ -129,6 +129,14 @@
   email: navaleprathamesh2409@gmail.com
   github:  
 
+- name:  Masters@CASPER (Mriganko)
+  image: assets/img/mriganko.jpg
+  degree: MS at IIT Bombay
+  year: 2024-
+  topic: "-" 
+  profile: https://msd-3.github.io/porfolio/
+  email: mriganko@cse.iitb.ac.in
+  github:  MSD-3
 
 - name: B.Techs@CASPER (Hrishikesh) 
   image: assets/img/hrishi.jpg
