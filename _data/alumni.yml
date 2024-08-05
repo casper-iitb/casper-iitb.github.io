@@ -7,9 +7,14 @@
   email: 
   github: 
 
-
-
-
+- name:  Masters@CASPER (Sumon)
+  image: assets/img/sumon.jpg
+  degree: M.S. at IIT Bombay
+  year: 2021-2024
+  topic: "Secure Prefetching"
+  profile: https://www.cse.iitb.ac.in/~sumon 
+  email: sumon@cse.iitb.ac.in
+  github: 
 
 - name: M.Techs@CASPER (Debasish) 
   image: assets/img/Deba.png
@@ -19,6 +24,24 @@
   profile: 
   email: 
   github: 
+
+- name: B.Techs@CASPER (Navneet) 
+  image: assets/img/navneet.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2020-24
+  topic: "Secure and Randomized Caches"
+  profile: https://navneet-13.github.io/ 
+  email: 200070048@iitb.ac.in
+  github:  
+
+- name: B.Techs@CASPER (Kritheesh) 
+  image: assets/img/kritish.jpeg
+  degree: B.Tech at IIT Bombay
+  year: 2020-24
+  topic: "Agile and Stealthy Cache attacks"
+  profile: https://e-kritheesh.github.io/ 
+  email:  200070018@iitb.ac.in
+  github:  
 
 - name: B.Techs@CASPER (Aman) 
   image: assets/img/aman.jpg
