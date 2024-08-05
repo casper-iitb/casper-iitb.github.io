@@ -54,9 +54,6 @@ carousels:
 <!-- {: .alert .alert-info} -->
 **Welcome to CASPER: *Computer Architecture for Security and Performance Research* group!** 
 
-{: .alert .alert-danger}
-News Alert: [M.S./Ph.D. admissions 2024](https://www.dropbox.com/scl/fi/pw4keljiych5xww3gxzd7/CASPER-Admissions.pptx?rlkey=kiiu1uw3rva9nyn6j81wai0rr&dl=0)
-
 Ever wondered what components make a processor chip? How do these components interact with each other? What can be done to make the processor execute your programs *faster*? Why do we need *caches* in the memory hierarchy? Why worry about OS-architecture interaction? Why worry about security when there are already software and OS-level protection mechanisms? 
 
 We, the CASPER Research Group, are a group of passionate folks from [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in) of [Indian Institute of Technology Bombay](https://www.iitb.ac.in), who ponders about similar questions and whose research includes, but is not limited to, methodologies to make the systems more robust against microarchitecture-level attacks and to further improve the performance of modern-day systems! 
