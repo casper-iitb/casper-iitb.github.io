@@ -57,6 +57,15 @@
   email: sweta@cse.iitb.ac.in 
   github: 
 
+- name:  Ph.Ds@CASPER (Kalind)
+  image: assets/img/kalind.jpg
+  degree: Ph.D at IIT Bombay
+  year: 2024 -
+  topic: "Microarchitecture optimizations for SAT solver"  
+  profile: https://kalindkaria.github.io/ 
+  email: kalindkaria@cse.iitb.ac.in 
+  github: kalindkaria 
+
 - name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
