@@ -165,15 +165,6 @@
   email: 200070008@iitb.ac.in
   github:  
   
-- name: B.Techs@CASPER (Khushang Singla) 
-  image: assets/img/khalistani.jpg
-  degree: B.Tech at IIT Bombay
-  year: 2021-25
-  topic: "Microarchitecture attacks"
-  profile: https://www.cse.iitb.ac.in/~khushangsingla 
-  email: 210050085@iitb.ac.in
-  github: khushangsingla 
-
 - name: Pre-Doctoral@CASPER (Dhruv Kumar) 
   image: assets/img/dhruv.jpg
   degree: Pre-Doctoral Researcher at IIT Bombay
