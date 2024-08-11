@@ -5,6 +5,10 @@ background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=fo
 permalink: /publications/
 
 ---
+* (**[MS Thesis]()**) Sumon Nath, “**[Do not Do not Forget Hardware Prefetching When Designing Secure Cache Systems](https://www.cse.iitb.ac.in/~biswa/MSThesisSumon.pdf)**” MS Thesis at CSE-IITB. 
+
+* (**[MICRO 2024](https://microarch.org/micro57/)**) Sumon Nath, Agustin Navarro-Torres, Alberto Ros, and Biswabandan Panda, “**[Secure Prefetching for Secure Cache Systems](https://www.cse.iitb.ac.in/~biswa/MICRO24.pdf)**” in ACM/IEEE 57th Annual International Symposium on Microarchitecture (MICRO '24)
+
 * (**[ISCA 2024](https://iscaconf.org/isca2024/)**) Anubhav Bhatla, Navneet, and Biswabandan Panda, “**[The Maya Cache: A Storage-efficient and Secure
 Fully-associative Last-level Cache](https://www.cse.iitb.ac.in/~biswa/ISCA2024.pdf)**” in ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA '24)
 
