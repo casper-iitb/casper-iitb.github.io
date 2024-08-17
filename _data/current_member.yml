@@ -147,6 +147,15 @@
   email: digvijay@cse.iitb.ac.in
   github:  digvijaypatil12
 
+- name:  Masters@CASPER (Devender)
+  image: assets/img/devender.jpg
+  degree: MS at IIT Bombay
+  year: 2024-
+  topic: "-" 
+  profile: https://singh0701.github.io/Dev-s-Webpage
+  email: 24m2121@iitb.ac.in
+  github:  Singh0701
+
 - name: B.Techs@CASPER (Hrishikesh) 
   image: assets/img/hrishi.jpg
   degree: B.Tech at IIT Bombay
