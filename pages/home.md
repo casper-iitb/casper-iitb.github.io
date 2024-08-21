@@ -60,7 +60,7 @@ We, the CASPER Research Group, are a group of "grittier" folks from [Department 
 
 <!--We have a [CASPER reading group (CASPERG)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSiRqCAlb2PSE9YKY3j2NWGiQ17ywFUNLiQHvSGqc0Pv6pxA9qQT2wS_VC78OJVzaP0hLuhBPOs36Zd/pubhtml) where we present/debate/brainstorm about recent research papers related computer architecture for security and performance.  -->
 
-CASPER is one of the groups in India that does top-quality computer architecture/systems research and publishes at flagship conferences. Our goal as a group is to conduct high quality research, which ensures India's presence on the global map of computer architecture/systems research. Thanks to Qualcomm, Google Research, Intel Labs, NXP, and Trust Lab for all the support. 
+CASPER is one of the groups in India that does top-quality computer architecture/systems research and publishes at flagship conferences. Our goal as a group is to conduct high quality research and strive for excellence, which ensures India's presence on the global map of computer architecture/systems research. Thanks to Qualcomm, Google Research, Intel Labs, NXP, and Trust Lab for all the support. 
 
 {: .alert .alert-info}
 We also have a weekly reading group to discuss interesting computer architecture topics. Click [here](https://casper-reading-group.carrd.co/#) for more details. 
