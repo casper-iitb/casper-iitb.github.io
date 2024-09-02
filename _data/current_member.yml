@@ -3,7 +3,7 @@
   degree: Faculty@CSE-IITB 
   year: 2020-
   advisor: 
-  topic: "Microarchitecture for performance and security" 
+  topic: "Microarchitecture for performance and security [Execute stage :) ]" 
   profile: https://www.cse.iitb.ac.in/~biswa/
   email: biswa@cse.iitb.ac.in
   github: 
@@ -15,7 +15,7 @@
   degree: Ph.D at IIT Kanpur 
   year: 2018-
   advisor: Primary advisor, Deba
-  topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory" 
+  topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory [Commit stage :)]" 
   profile: https://www.cse.iitk.ac.in/users/kparun/
   email: kparun@cse.iitk.ac.in
   github: 
@@ -25,7 +25,7 @@
   degree: Ph.D at IIT Bombay
   year: 2021 -
   advisor: Primary advisor, Mythili
-  topic: "Microarchitecture for high speed network I/O"  
+  topic: "Microarchitecture for high speed network I/O [Execute stage :)]"  
   profile: https://www.linkedin.com/in/hari-sharan-2657a615/ 
   email: harisharan@cse.iitb.ac.in
   github: 
@@ -34,7 +34,7 @@
   image: assets/img/shubham.jpg
   degree: Ph.D at IIT Bombay
   year: 2023 -
-  topic: "CPU+GPU heterogeneous system security"  
+  topic: "CPU+GPU heterogeneous system security [Decode stage :)]"  
   profile: https://sroy729.github.io/yupp/ 
   email: royshubham@cse.iitb.ac.in
   github: 
@@ -43,7 +43,7 @@
   image: assets/img/ravi.jpg
   degree: Ph.D at IIT Bombay
   year: 2023 -
-  topic: "Secure memory systems"  
+  topic: "Secure memory systems [Decode stage :)]"  
   profile: https://archidemisorravi.github.io/ 
   email: ravichoubey@cse.iitb.ac.in 
   github: 
@@ -52,7 +52,7 @@
   image: assets/img/sweta.jpg
   degree: Ph.D at IIT Bombay
   year: 2024 -
-  topic: "Shared resource management for large-scale datacenters"  
+  topic: "Shared resource management for large-scale datacenters [Execute stage :)]"  
   profile: https://sweta-8.github.io/ 
   email: sweta@cse.iitb.ac.in 
   github: 
@@ -61,7 +61,7 @@
   image: assets/img/kalind.jpg
   degree: Ph.D at IIT Bombay
   year: 2024 -
-  topic: "Domain Specific Microarchitecture optimizations"  
+  topic: "Domain Specific Microarchitecture optimizations [Decode stage :)]"  
   profile: https://kalindkaria.github.io/ 
   email: kalindkaria@cse.iitb.ac.in 
   github: kalindkaria 
@@ -70,7 +70,7 @@
   image: assets/img/prerna.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "Secure cache partitioning"
+  topic: "Secure cache partitioning [Execute stage :)]"
   profile: https://14prerna.github.io/prerna/ 
   email: 23m2115@iitb.ac.in 
   github:
@@ -79,7 +79,7 @@
   image: assets/img/nishkarsh.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "Secure memory hierarchy"
+  topic: "Secure memory hierarchy [Execute stage :)]"
   profile: https://nish-97.github.io/ 
   email: nishkarsh@cse.iitb.ac.in 
   github:
@@ -88,7 +88,7 @@
   image: assets/img/naman.jpg
   degree: M.S. at IIT Bombay
   year: 2023-
-  topic: "Data prefetching for datacenters"
+  topic: "Data prefetching for datacenters [Execute stage :)]"
   profile: https://naman5555sharma.github.io/my-website/
   email: namansharma@cse.iitb.ac.in 
   github:
@@ -97,7 +97,7 @@
   image: assets/img/vedant.jpg
   degree: MS at IIT Bombay
   year: 2023-
-  topic: "Front-end optimizations for datacenters"
+  topic: "Front-end optimizations for datacenters [Execute stage :)]"
   profile: https://vedantk11.github.io/vedantk.github.io/
   email:  23m2108@iitb.ac.in
   github: https://github.com/VedantK11
@@ -106,7 +106,7 @@
   image: assets/img/giriraj.jpg
   degree: M.Tech. at IIT Bombay
   year: 2023-
-  topic: "3D V-cache optimizations"
+  topic: "3D V-cache optimizations [Execute stage :)]"
   profile: http://rajsng3737.github.io/ 
   email: rajsng3737@gmail.com
   github:  
@@ -115,7 +115,7 @@
   image: assets/img/abhishek.jpg
   degree: M.Tech. at IIT Bombay
   year: 2023-
-  topic: "TLB performance optimizations"
+  topic: "TLB performance optimizations [Decode stage :)]"
   profile: https://abhishekjagushte.github.io/
   email: abhishekjagushte@gmail.com 
   github:  
@@ -124,7 +124,7 @@
   image: assets/img/prathamesh.jpg
   degree: M.Tech. at IIT Bombay
   year: 2023-
-  topic: "Micro-architectural optimizations for recommendation systems" 
+  topic: "Micro-architectural optimizations for recommendation systems [Execute stage :)]" 
   profile: https://pnavale2409.github.io/
   email: navaleprathamesh2409@gmail.com
   github:  
@@ -133,7 +133,7 @@
   image: assets/img/mriganko.jpg
   degree: MS at IIT Bombay
   year: 2024-
-  topic: "-" 
+  topic: "[Fetch stage :)]" 
   profile: https://msd-3.github.io/
   email: mriganko@cse.iitb.ac.in
   github:  MSD-3
@@ -142,7 +142,7 @@
   image: assets/img/digvijay.jpg
   degree: MS at IIT Bombay
   year: 2024-
-  topic: "-" 
+  topic: "[Fetch stage :)]" 
   profile: https://digvijaypatil12.github.io/
   email: digvijay@cse.iitb.ac.in
   github:  digvijaypatil12
@@ -151,7 +151,7 @@
   image: assets/img/devender.jpg
   degree: MS at IIT Bombay
   year: 2024-
-  topic: "-" 
+  topic: "[Fetch stage :)]" 
   profile: https://singh0701.github.io/Dev-s-Webpage
   email: 24m2121@iitb.ac.in
   github:  Singh0701
@@ -160,7 +160,7 @@
   image: assets/img/hrishi.jpg
   degree: B.Tech at IIT Bombay
   year: 2021-25
-  topic: "Microarchitecture for datacenters"
+  topic: "Microarchitecture for datacenters [Execute stage :)]"
   profile: https://hrishi-06.github.io/ 
   email: hrishijd@iitb.ac.in
   github: 
@@ -169,7 +169,7 @@
   image: assets/img/anubhav.jpeg
   degree: B.Tech at IIT Bombay
   year: 2020-24
-  topic: "Secure and Randomized Caches"
+  topic: "Secure and Randomized Caches [commit stage :)]"
   profile: https://anubhavbhatla.github.io/
   email: 200070008@iitb.ac.in
   github:  
