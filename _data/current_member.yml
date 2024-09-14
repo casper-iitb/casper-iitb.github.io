@@ -66,6 +66,15 @@
   email: kalindkaria@cse.iitb.ac.in 
   github: kalindkaria 
 
+- name:  Ph.Ds@CASPER (Mrityunjay)
+  image: assets/img/mrityunjay.jpg
+  degree: Ph.D at IIT Bombay
+  year: 2024 -
+  topic: "Microarchitectural Security and ML/DL Security"  
+  profile: https://github.com/mrityunjayshukla411/mrityunjayshukla411.github.io 
+  email: mrityunjay@cse.iitb.ac.in 
+  github: mrityunjayshukla411 
+
 - name: Masters@CASPER (Prerna) 
   image: assets/img/prerna.jpg
   degree: M.S. at IIT Bombay
