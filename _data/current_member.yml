@@ -70,7 +70,7 @@
   image: assets/img/mrityunjay.jpg
   degree: Ph.D at IIT Bombay
   year: 2024 -
-  topic: "Microarchitectural Security and ML/DL Security"  
+  topic: "Microarchitectural Security and ML/DL Security [Decode stage :)]"  
   profile: https://github.com/mrityunjayshukla411/mrityunjayshukla411.github.io 
   email: mrityunjay@cse.iitb.ac.in 
   github: mrityunjayshukla411 
@@ -164,6 +164,15 @@
   profile: https://singh0701.github.io/Dev-s-Webpage
   email: 24m2121@iitb.ac.in
   github:  Singh0701
+
+- name:  Masters@CASPER (Sachin)
+  image: assets/img/sachin.jpg
+  degree: MS at IIT Bombay
+  year: 2024-
+  topic: "Offensive security in GPU context[Decode stage :)]" 
+  profile: https://github.com/Sachin-23 
+  email: 24m2114@iitb.ac.in
+  github:  Sachin-23
 
 - name: B.Techs@CASPER (Hrishikesh) 
   image: assets/img/hrishi.jpg
