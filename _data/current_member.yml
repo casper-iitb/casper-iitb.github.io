@@ -71,7 +71,7 @@
   degree: Ph.D at IIT Bombay
   year: 2024 -
   topic: "Microarchitectural Security and ML/DL Security [Decode stage :)]"  
-  profile: https://github.com/mrityunjayshukla411/mrityunjayshukla411.github.io 
+  profile: https://mrityunjayshukla411.github.io/
   email: mrityunjay@cse.iitb.ac.in 
   github: mrityunjayshukla411 
 
@@ -177,11 +177,20 @@
 - name: B.Techs@CASPER (Anubhav) 
   image: assets/img/anubhav.jpeg
   degree: B.Tech at IIT Bombay
-  year: 2020-24
+  year: 2020-25
   topic: "Secure and Randomized Caches [commit stage :)]"
   profile: https://anubhavbhatla.github.io/
   email: 200070008@iitb.ac.in
   github:  
+
+- name: Pre-Doctoral@CASPER (Adithi) 
+  image: assets/img/adithi.jpeg
+  degree: Pre-Doctoral at IIT Bombay
+  year: 2024-25
+  topic: "Spectre mitigations [fetch stage :)]"
+  profile:
+  email: adithibhatindia@gmail.com
+  github: https://github.com/Ad1th1 
 
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
