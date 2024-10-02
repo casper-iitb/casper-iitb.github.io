@@ -184,7 +184,7 @@
   github:  
 
 - name: Pre-Doctoral@CASPER (Adithi) 
-  image: assets/img/adithi.jpeg
+  image: assets/img/adithi.jpg
   degree: Pre-Doctoral at IIT Bombay
   year: 2024-25
   topic: "Spectre mitigations [fetch stage :)]"
