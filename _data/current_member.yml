@@ -68,6 +68,7 @@
 
 - name:  Ph.Ds@CASPER (Mrityunjay)
   image: assets/img/mrityunjay.jpg
+  advisor: Primary advisor, Sayandeep
   degree: Ph.D at IIT Bombay
   year: 2024 -
   topic: "Microarchitectural Security and ML/DL Security [Decode stage :)]"  
@@ -142,7 +143,7 @@
   image: assets/img/mriganko.jpg
   degree: MS at IIT Bombay
   year: 2024-
-  topic: "[Fetch stage :)]" 
+  topic: Secure Front-end for data centers "[Fetch stage :)]" 
   profile: https://msd-3.github.io/
   email: mriganko@cse.iitb.ac.in
   github:  MSD-3
@@ -151,13 +152,14 @@
   image: assets/img/digvijay.jpg
   degree: MS at IIT Bombay
   year: 2024-
-  topic: "[Fetch stage :)]" 
+  topic: Software-microarchitecture interaction for data centers "[Fetch stage :)]" 
   profile: https://digvijaypatil12.github.io/
   email: digvijay@cse.iitb.ac.in
   github:  digvijaypatil12
 
 - name:  Masters@CASPER (Sachin)
   image: assets/img/sachin.jpg
+  advisor: Primary advisor, Sayandeep
   degree: MS at IIT Bombay
   year: 2024-
   topic: "Offensive security in GPU context[Decode stage :)]" 
@@ -187,7 +189,7 @@
   image: assets/img/adithi.jpg
   degree: Pre-Doctoral at IIT Bombay
   year: 2024-25
-  topic: "Spectre mitigations [fetch stage :)]"
+  topic: "Transient execution attacks [fetch stage :)]"
   profile:
   email: adithibhatindia@gmail.com
   github: https://github.com/Ad1th1 
