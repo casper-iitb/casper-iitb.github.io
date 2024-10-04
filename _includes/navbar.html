@@ -4,7 +4,10 @@
       {% if site.logo %}
         <img src="{{ site.logo | relative_url }}" class="mr-2">
       {% endif %}
-      {{ site.title }}
+      <div>
+        <div id="title">{{ site.title }}</div>
+        <div id="tagline">{{ site.tagline }}</div>
+      </div>
     </a>
     {% if site.data.navigation %}
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu">

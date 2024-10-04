@@ -11,6 +11,19 @@
     }
   }
 
+  //stype for tagline and title
+  div{
+    #tagline{
+      font-size: 0.75rem;
+      color: $gray-600;
+      font-style: italic;
+    }
+    #title{
+      font-size: 1.25rem;
+      line-height: 0.85rem;
+    }
+  }
+  
   // Remove border on .dropdown-menu when .navbar is collapsed
   @include media-breakpoint-down(md) {
     .dropdown-menu {
