@@ -1,6 +1,6 @@
 # SITE SETTINGS
 title: CASPER                        # Title in top navigation bar (navbar) and <head>
-tagline: Pioneering with Grit, Bit by Bit
+tagline: Pioneering with grit, bit by bit
 description: Computer Architecture for Security and Performance # Site description in <head>
 author: CASPER, IIT Bombay                   # Used for copyright statement in footer
 # url: "https://peterdesmet.github.io"  # No slash at the end
