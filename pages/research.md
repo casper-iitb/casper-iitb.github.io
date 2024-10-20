@@ -19,7 +19,7 @@ background : "https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg
 - ML/RL for architecture: ML/RL for microarchitecture optimizations, Application specific microarchitecture
 
 
-Thanks to Intel Research, Google, Qualcomm, and NXP for funding our research interests.
+We maintain a strong collaboration with the [SHARC](https://sharc.vercel.app/) group, combining expertise to drive innovation in hardware security and performance. Our research is generously supported by Intel Research, Google, Qualcomm, and NXP.
 
 
 # ... and more.
