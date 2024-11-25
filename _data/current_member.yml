@@ -148,25 +148,6 @@
   email: mriganko@cse.iitb.ac.in
   github:  MSD-3
 
-- name:  Masters@CASPER (Digvijay)
-  image: assets/img/digvijay.jpg
-  degree: MS at IIT Bombay
-  year: 2024-
-  topic: "Software-microarchitecture interaction for data centers [Fetch stage :)]" 
-  profile: https://digvijaypatil12.github.io/
-  email: digvijay@cse.iitb.ac.in
-  github:  digvijaypatil12
-
-- name:  Masters@CASPER (Sachin)
-  image: assets/img/sachin.jpg
-  advisor: Primary advisor, Sayandeep
-  degree: MS at IIT Bombay
-  year: 2024-
-  topic: "Offensive security in GPU context[Decode stage :)]" 
-  profile: https://github.com/Sachin-23 
-  email: 24m2114@iitb.ac.in
-  github:  Sachin-23
-
 - name: B.Techs@CASPER (Hrishikesh) 
   image: assets/img/hrishi.jpg
   degree: B.Tech at IIT Bombay
