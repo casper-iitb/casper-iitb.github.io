@@ -13,7 +13,7 @@
 - name: Ph.Ds@CASPER (Arun) 
   image: assets/img/arun.jpg
   degree: Ph.D at IIT Kanpur 
-  year: 2018-
+  year: 2018-2024 (Thesis submitted)
   advisor: Primary advisor, Deba
   topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory [Commit stage :)]" 
   profile: https://www.cse.iitk.ac.in/users/kparun/
@@ -56,15 +56,6 @@
   profile: https://sweta-8.github.io/ 
   email: sweta@cse.iitb.ac.in 
   github: 
-
-- name:  Ph.Ds@CASPER (Kalind)
-  image: assets/img/kalind.jpg
-  degree: Ph.D at IIT Bombay
-  year: 2024 -
-  topic: "Domain Specific Microarchitecture optimizations [Decode stage :)]"  
-  profile: https://kalindkaria.github.io/ 
-  email: kalindkaria@cse.iitb.ac.in 
-  github: kalindkaria 
 
 - name:  Ph.Ds@CASPER (Mrityunjay)
   image: assets/img/mrityunjay.jpg
