@@ -103,24 +103,6 @@
   email:  23m2108@iitb.ac.in
   github: https://github.com/VedantK11
 
-- name:  Masters@CASPER (Giriraj)
-  image: assets/img/giriraj.jpg
-  degree: M.Tech. at IIT Bombay
-  year: 2023-
-  topic: "3D V-cache optimizations [Execute stage :)]"
-  profile: http://rajsng3737.github.io/ 
-  email: rajsng3737@gmail.com
-  github:  
-
-- name:  Masters@CASPER (Abhishek)
-  image: assets/img/abhishek.jpg
-  degree: M.Tech. at IIT Bombay
-  year: 2023-
-  topic: "TLB performance optimizations [Decode stage :)]"
-  profile: https://abhishekjagushte.github.io/
-  email: abhishekjagushte@gmail.com 
-  github:  
-
 - name:  Masters@CASPER (Prathamesh)
   image: assets/img/prathamesh.jpg
   degree: M.Tech. at IIT Bombay
@@ -148,24 +130,6 @@
   profile: https://msd-3.github.io/
   email: mriganko@cse.iitb.ac.in
   github:  MSD-3
-
-- name: B.Techs@CASPER (Hrishikesh) 
-  image: assets/img/hrishi.jpg
-  degree: B.Tech at IIT Bombay
-  year: 2021-25
-  topic: "Microarchitecture for datacenters [Execute stage :)]"
-  profile: https://hrishi-06.github.io/ 
-  email: hrishijd@iitb.ac.in
-  github: 
-
-- name: B.Techs@CASPER (Anubhav) 
-  image: assets/img/anubhav.jpeg
-  degree: B.Tech at IIT Bombay
-  year: 2020-25
-  topic: "Secure and Randomized Caches [commit stage :)]"
-  profile: https://anubhavbhatla.github.io/
-  email: 200070008@iitb.ac.in
-  github:  
 
 - name: B.Techs@CASPER (Hari) 
   image: assets/img/hari.jpg
