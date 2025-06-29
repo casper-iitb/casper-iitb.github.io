@@ -25,6 +25,42 @@
   email: 
   github: 
 
+- name:  Masters@CASPER (Giriraj)
+  image: assets/img/giriraj.jpg
+  degree: M.Tech. at IIT Bombay
+  year: 2023-25
+  topic: "3D V-cache optimizations"
+  profile: http://rajsng3737.github.io/ 
+  email: rajsng3737@gmail.com
+  github:  
+
+- name:  Masters@CASPER (Abhishek)
+  image: assets/img/abhishek.jpg
+  degree: M.Tech. at IIT Bombay
+  year: 2023-25
+  topic: "TLB performance optimizations"
+  profile: https://abhishekjagushte.github.io/
+  email: abhishekjagushte@gmail.com 
+  github:  
+
+- name: B.Techs@CASPER (Hrishikesh) 
+  image: assets/img/hrishi.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2021-25
+  topic: "Microarchitecture for datacenters"
+  profile: https://hrishi-06.github.io/ 
+  email: hrishijd@iitb.ac.in
+  github: 
+
+- name: B.Tech+DDs@CASPER (Anubhav) 
+  image: assets/img/anubhav.jpeg
+  degree: B.Tech at IIT Bombay
+  year: 2020-25
+  topic: "Secure and Randomized Caches"
+  profile: https://anubhavbhatla.github.io/
+  email: 200070008@iitb.ac.in
+  github:  
+
 - name: B.Techs@CASPER (Navneet) 
   image: assets/img/navneet.jpg
   degree: B.Tech at IIT Bombay
