@@ -1,3 +1,13 @@
+- name: Ph.Ds@CASPER (Arun) 
+  image: assets/img/arun.jpg
+  degree: Ph.D at IIT Kanpur 
+  year: 2018-2025
+  advisor: Primary advisor, Deba
+  topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory [Commit stage :)]" 
+  profile: https://www.cse.iitk.ac.in/users/kparun/
+  email: kparun@cse.iitk.ac.in
+  github: 
+
 - name: Ph.Ds@CASPER (Saurabh) 
   image: assets/img/saurabh.jpg
   degree: Ph.D. at IIT Kanpur
