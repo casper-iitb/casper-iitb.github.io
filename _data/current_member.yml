@@ -9,16 +9,6 @@
   github: 
   
   # Project team members listed below will appear on the /team page
-
-- name: Ph.Ds@CASPER (Arun) 
-  image: assets/img/arun.jpg
-  degree: Ph.D at IIT Kanpur 
-  year: 2018-2024 (Thesis submitted)
-  advisor: Primary advisor, Deba
-  topic: "Computer Architecture and OS solutions for Non-volatile (persistent) memory [Commit stage :)]" 
-  profile: https://www.cse.iitk.ac.in/users/kparun/
-  email: kparun@cse.iitk.ac.in
-  github: 
        
 - name:  Ph.Ds@CASPER (Hari)
   image: assets/img/hari-image.jpeg.png
@@ -39,15 +29,6 @@
   email: royshubham@cse.iitb.ac.in
   github: 
   
-- name:  Ph.Ds@CASPER (Ravi)
-  image: assets/img/ravi.jpg
-  degree: Ph.D at IIT Bombay
-  year: 2023 -
-  topic: "Secure memory systems [Decode stage :)]"  
-  profile: https://archidemisorravi.github.io/ 
-  email: ravichoubey@cse.iitb.ac.in 
-  github: 
-
 - name:  Ph.Ds@CASPER (Sweta)
   image: assets/img/sweta.jpg
   degree: Ph.D at IIT Bombay
