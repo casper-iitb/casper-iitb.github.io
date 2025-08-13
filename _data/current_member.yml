@@ -48,10 +48,19 @@
   email: mrityunjay@cse.iitb.ac.in 
   github: mrityunjayshukla411 
 
+- name: Ph.Ds@CASPER (Jayasri)
+  image: assets/img/jayasri.jpg
+  degree: PhD at IIT Bombay
+  year: 2025 –
+  topic: "Hardware-Software Co-Design"
+  profile: https://github.com/jayasri-pa/jayasri-pa.github.io
+  email: 25d0361@iitb.ac.in
+  github: jayasri-pa
+
 - name: Masters@CASPER (Prerna) 
   image: assets/img/prerna.jpg
   degree: M.S. at IIT Bombay
-  year: 2023-
+  year: 2023 -
   topic: "Secure cache partitioning [Execute stage :)]"
   profile: https://14prerna.github.io/prerna/ 
   email: 23m2115@iitb.ac.in 
@@ -60,7 +69,7 @@
 - name: Masters@CASPER (Nishkarsh) 
   image: assets/img/nishkarsh.jpg
   degree: M.S. at IIT Bombay
-  year: 2023-
+  year: 2023 -
   topic: "Secure memory hierarchy [Execute stage :)]"
   profile: https://nish-97.github.io/ 
   email: nishkarsh@cse.iitb.ac.in 
@@ -69,7 +78,7 @@
 - name: Masters@CASPER (Naman) 
   image: assets/img/naman.jpg
   degree: M.S. at IIT Bombay
-  year: 2023-
+  year: 2023 -
   topic: "Data prefetching for datacenters [Execute stage :)]"
   profile: https://naman5555sharma.github.io/my-website/
   email: namansharma@cse.iitb.ac.in 
@@ -78,7 +87,7 @@
 - name: Masters@CASPER(Vedant)
   image: assets/img/vedant.jpg
   degree: MS at IIT Bombay
-  year: 2023-
+  year: 2023 -
   topic: "Front-end optimizations for datacenters [Execute stage :)]"
   profile: https://vedantk11.github.io/vedantk.github.io/
   email:  23m2108@iitb.ac.in
@@ -87,7 +96,7 @@
 - name:  Masters@CASPER (Prathamesh)
   image: assets/img/prathamesh.jpg
   degree: M.Tech. at IIT Bombay
-  year: 2023-
+  year: 2023 -
   topic: "Micro-architectural optimizations for recommendation systems [Execute stage :)]" 
   profile: https://pnavale2409.github.io/
   email: navaleprathamesh2409@gmail.com
@@ -96,26 +105,52 @@
 - name:  Masters@CASPER (Arif)
   image: assets/img/Arif.jpg
   degree: M.Tech. at IIT Bombay
-  year: 2023-
+  year: 2023 -
   topic: "Microarchitecture Metadata Management for Data Intensive Workloads [Execute stage :)]" 
   profile: https://www.linkedin.com/in/sm-arif-ali-17386821b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
   email: arifali@cse.iitb.ac.in
   github:    
-
   
 - name:  Masters@CASPER (Mriganko)
   image: assets/img/mriganko.jpg
   degree: MS at IIT Bombay
-  year: 2024-
-  topic: "Secure Front-end for data centers [Fetch stage :)]" 
+  year: 2024 -
+  topic: "Secure Front-end for datacenters [Fetch stage :)]" 
   profile: https://msd-3.github.io/
   email: mriganko@cse.iitb.ac.in
   github:  MSD-3
 
+- name: Masters@CASPER (Suyash)
+  image: assets/img/suyash.jpg
+  degree: MS at IIT Bombay
+  year: 2025 –
+  topic: "Data Prefetchers for datacenters"
+  profile: https://suyashjoshi404.github.io/
+  email: 25m2130@iitb.ac.in
+  github: suyashjoshi404
+
+- name: Masters@CASPER (Himadri)
+  image: assets/img/himadri.jpg
+  degree: MS at IIT Bombay
+  year: 2025 –
+  topic: "Secure ISA against Microarchitectural Attacks"
+  profile: https://himadri-mukadam.github.io/Website_HVM/
+  email: 25m2134@iitb.ac.in
+  github: Himadri-Mukadam
+
+- name: Masters@CASPER (Neeraj)
+  image: assets/img/neeraj.jpg
+  degree: MS by Research at IIT Bombay
+  year: 2025 -
+  topic: "Cache hierarchy for datacenter processors"
+  profile: https://striender.github.io/Casper_Profile/index.html
+  email: 25m2133@iitb.ac.in
+  github: Striender
+
 - name: B.Techs@CASPER (Hari) 
   image: assets/img/hari.jpg
   degree: B.Tech at IIT Bombay
-  year: 2022-
+  year: 2022 -
   topic: "Randomized Caches [Execute stage :)]"
   profile: https://haribhavsar.github.io/ 
   email: 22b0934@iitb.ac.in 
@@ -124,7 +159,7 @@
 - name: B.Techs@CASPER (K.S.Shriram Kumar) 
   image: assets/img/shriram.jpg
   degree: B.Tech at IIT Bombay
-  year: 2022-
+  year: 2022 -
   topic: "Cache Optimizations for graph analytics [Execute stage :)]"
   profile: https://github.com/KSShriramkumar 
   email: 22b1280@iitb.ac.in
@@ -133,11 +168,20 @@
 - name: B.Techs@CASPER (Geet) 
   image: assets/img/geet.jpg
   degree: B.Tech at IIT Bombay
-  year: 2022-
+  year: 2022 -
   topic: "Adaptive Software Prefetching [Execute stage :)]"
   profile: https://geet1575.github.io  
   email: geet1575@iitb.ac.in
   github: 
+
+- name: DD@CASPER (Yashas)
+  image: assets/img/yashas.jpg
+  degree: Dual Degree (B.Tech + M.Tech) at IIT Bombay
+  year: 2021 –
+  topic: "TLB Performance Optimizations"
+  profile: https://github.com/earlylife-crysis/earlylife-crysis.github.io
+  email: yashas.msalian@iitb.ac.in
+  github: earlylife-crysis
 
 - name: Pre-Doctoral@CASPER (Adithi) 
   image: assets/img/adithi.jpg
