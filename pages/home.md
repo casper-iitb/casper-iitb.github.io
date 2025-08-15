@@ -9,6 +9,9 @@ carousels:
     - image: /uploads/slider/group.jpg
     - image: /uploads/slider/group2.jpg
     - image: /uploads/slider/group4.jpg
+    - image: /uploads/slider/img43.jpg
+    - image: /uploads/slider/img42.jpg
+    - image: /uploads/slider/img41.jpg
     - image: /uploads/slider/img40.jpg
     - image: /uploads/slider/img39.jpg
     - image: /uploads/slider/img38.jpg
