@@ -7,6 +7,7 @@ permalink: /
 carousels:
   - images: 
     - image: /uploads/slider/group.jpg
+    - image: /uploads/slider/img44.jpg
     - image: /uploads/slider/group2.jpg
     - image: /uploads/slider/group4.jpg
     - image: /uploads/slider/img43.jpg
