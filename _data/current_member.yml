@@ -120,6 +120,15 @@
   email: mriganko@cse.iitb.ac.in
   github:  MSD-3
 
+- name: Masters@CASPER (Shivraj)
+  image: assets/img/shivraj.jpg
+  degree: MS at IIT Bombay
+  year: 2025 –
+  topic: "Treelet Prefetching for Raytracing Application"
+  profile: https://www.cse.iitb.ac.in/~shivraj/
+  email: 25m2136@iitb.ac.in
+  github: Shivraj1906
+
 - name: Masters@CASPER (Suyash)
   image: assets/img/suyash.jpg
   degree: MS at IIT Bombay
