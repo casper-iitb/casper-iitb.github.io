@@ -10,6 +10,7 @@ carousels:
     - image: /uploads/slider/img44.jpg
     - image: /uploads/slider/group2.jpg
     - image: /uploads/slider/group4.jpg
+    - image: /uploads/slider/img45.jpg
     - image: /uploads/slider/img43.jpg
     - image: /uploads/slider/img42.jpg
     - image: /uploads/slider/img41.jpg
