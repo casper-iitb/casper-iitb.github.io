@@ -40,10 +40,9 @@
 
 - name:  Ph.Ds@CASPER (Mrityunjay)
   image: assets/img/mrityunjay.jpg
-  advisor: Primary advisor, Sayandeep
   degree: Ph.D at IIT Bombay
   year: 2024 -
-  topic: "Microarchitectural Security and ML/DL Security [Decode stage :)]"  
+  topic: "Security and performance of heterogenous systems [Decode stage :)]"  
   profile: https://mrityunjayshukla411.github.io/
   email: mrityunjay@cse.iitb.ac.in 
   github: mrityunjayshukla411 
