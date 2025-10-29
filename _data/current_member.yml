@@ -183,15 +183,6 @@
   email: yashas.msalian@iitb.ac.in
   github: earlylife-crysis
 
-- name: Pre-Doctoral@CASPER (Adithi) 
-  image: assets/img/adithi.jpg
-  degree: Pre-Doctoral at IIT Bombay
-  year: 2024-25
-  topic: "Transient execution attacks [fetch stage :)]"
-  profile:
-  email: adithibhatindia@gmail.com
-  github: https://github.com/Ad1th1 
-
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
   degree: 
