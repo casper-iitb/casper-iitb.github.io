@@ -5,6 +5,14 @@ background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=fo
 permalink: /publications/
 
 ---
+* (**[ASPLOS 2026](https://asplos-conference.org/asplos2026/)**) Vedant Kalbande, Hrishikesh Deshmukh, Alberto Ros, and Biswabandan Panda, “**[ICARUS: Criticality and Reuse based Instruction Caching for Datacenter Applications](https://www.cse.iitb.ac.in/~biswa/ASPLOS26.pdf)**” in 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'26)
+
+* (**[MICRO 2025](https://www.microarch.org/micro58/)**) Sweta, Prerna Priyadarshini, and Biswabandan Panda, “**[Drishti: Do Not Forget Slicing While Designing Last-Level Cache Replacement Policies for Many-Core Systems](https://www.cse.iitb.ac.in/~biswa/MICRO25.pdf)**” in 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25) [Best paper candidate]
+
+* (**[USENIX SECURITY 2025](https://www.usenix.org/conference/usenixsecurity25)**) Anubhav Bhatla, Hari Rohit Bhavsar, Sayandeep Saha, and Biswabandan Panda, “**[So, You Think You Know All About Secure Randomized Caches?](https://www.cse.iitb.ac.in/~biswa/USENIXSEC25.pdf)**” in 34th USENIX Security Symposium (USEC'25) [**Distinguished Artifact Award**][**Errata**](https://www.cse.iitb.ac.in/~biswa/Errata-USEC25.pdf)
+
+* (**[IEEE CAL 2024](https://www.computer.org/csdl/journal/ca)**) E Kritish and Biswabandan Panda, “**[SPAM: Streamlined Prefetcher-Aware Multi-threaded Cache Covert-Channel Attack](https://www.cse.iitb.ac.in/~biswa/CAL25.pdf)**” in IEEE Computer Architecture Letters 2025 (IEEE CAL '25)
+
 * (**[MS Thesis]()**) Sumon Nath, “**[Do not Do not Forget Hardware Prefetching When Designing Secure Cache Systems](https://www.cse.iitb.ac.in/~biswa/MSThesisSumon.pdf)**” MS Thesis at CSE-IITB. 
 
 * (**[MICRO 2024](https://microarch.org/micro57/)**) Sumon Nath, Agustin Navarro-Torres, Alberto Ros, and Biswabandan Panda, “**[Secure Prefetching for Secure Cache Systems](https://www.cse.iitb.ac.in/~biswa/MICRO24.pdf)**” in ACM/IEEE 57th Annual International Symposium on Microarchitecture (MICRO '24)
