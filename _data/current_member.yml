@@ -128,15 +128,6 @@
   email: 25m2130@iitb.ac.in
   github: suyashjoshi404
 
-- name: Masters@CASPER (Himadri)
-  image: assets/img/himadri.jpg
-  degree: MS at IIT Bombay
-  year: 2025 –
-  topic: "Secure ISA against Microarchitectural Attacks"
-  profile: https://himadri-mukadam.github.io/Website_HVM/
-  email: 25m2134@iitb.ac.in
-  github: Himadri-Mukadam
-
 - name: Masters@CASPER (Neeraj)
   image: assets/img/neeraj.jpg
   degree: MS by Research at IIT Bombay
