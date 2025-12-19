@@ -47,15 +47,6 @@
   email: mrityunjay@cse.iitb.ac.in 
   github: mrityunjayshukla411 
 
-- name: Ph.Ds@CASPER (Jayasri)
-  image: assets/img/jayasri.jpg
-  degree: PhD at IIT Bombay
-  year: 2025 –
-  topic: "Hardware-Software Co-Design"
-  profile: https://jayasri-pa.github.io/
-  email: 25d0361@iitb.ac.in
-  github: jayasri-pa
-
 - name: Masters@CASPER (Prerna) 
   image: assets/img/prerna.jpg
   degree: M.S. at IIT Bombay
