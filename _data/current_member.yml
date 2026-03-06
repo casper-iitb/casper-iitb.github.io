@@ -128,6 +128,15 @@
   email: 25m2133@iitb.ac.in
   github: Striender
 
+- name: Masters@CASPER (Shivam)
+  image: assets/img/shivam.jpg
+  degree: MS by Research at IIT Bombay
+  year: 2025 -
+  topic: "Cache occupancy attacks"
+  profile: https://www.cse.iitb.ac.in/~shivamsingh/
+  email: 25m2137@iitb.ac.in
+  github: Shivam-official16
+
 - name: B.Techs@CASPER (Hari) 
   image: assets/img/hari.jpg
   degree: B.Tech at IIT Bombay
@@ -155,6 +164,15 @@
   email: geet1575@iitb.ac.in
   github: 
 
+- name: B.Techs@CASPER (Samar) 
+  image: assets/img/samar.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2022 -
+  topic: "Side-channel attacks on CPUs"
+  profile: https://www.linkedin.com/in/samar-perwez/ 
+  email: samar.perwez@gmail.com
+  github: Consultant-47
+
 - name: DD@CASPER (Yashas)
   image: assets/img/yashas.jpg
   degree: Dual Degree (B.Tech + M.Tech) at IIT Bombay
@@ -163,6 +181,15 @@
   profile: https://github.com/earlylife-crysis/earlylife-crysis.github.io
   email: yashas.msalian@iitb.ac.in
   github: earlylife-crysis
+
+- name: Intern@CASPER (Pravar)
+  image: assets/img/pravar.jpg
+  degree: B.Tech at IIIT Delhi
+  year: 2022 – 2026
+  topic: "Cache replacement policy"
+  profile: https://pravarpathania.github.io/
+  email: pravarpathania@gmail.com
+  github: pravarpathania
 
 - name: ABC@CASPER (Is this you?) 
   image: assets/img/this.jpg
