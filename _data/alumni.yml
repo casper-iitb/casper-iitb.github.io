@@ -16,6 +16,51 @@
   email: 
   github: 
 
+- name: Masters@CASPER (Naman) 
+  image: assets/img/naman.jpg
+  degree: M.S. at IIT Bombay
+  year: 2023-25
+  topic: "Data prefetching for datacenters [Execute stage :)]"
+  profile: https://naman5555sharma.github.io/
+  email: namansharma@cse.iitb.ac.in 
+  github:
+
+- name: Masters@CASPER (Nishkarsh) 
+  image: assets/img/nishkarsh.jpg
+  degree: M.S. at IIT Bombay
+  year: 2023-25
+  topic: "Secure memory hierarchy [Execute stage :)]"
+  profile: https://nish-97.github.io/ 
+  email: nishkarsh@cse.iitb.ac.in 
+  github:
+
+- name: Masters@CASPER (Prerna) 
+  image: assets/img/prerna.jpg
+  degree: M.S. at IIT Bombay
+  year: 2023-25
+  topic: "Secure cache partitioning [Execute stage :)]"
+  profile: https://14prerna.github.io/prerna/ 
+  email: 23m2115@iitb.ac.in 
+  github:
+
+- name: Masters@CASPER(Vedant)
+  image: assets/img/vedant.jpg
+  degree: MS at IIT Bombay
+  year: 2023-25
+  topic: "Front-end optimizations for datacenters [Execute stage :)]"
+  profile: https://vedantk11.github.io/vedantk.github.io/
+  email:  23m2108@iitb.ac.in
+  github: https://github.com/VedantK11
+
+- name:  Masters@CASPER (Prathamesh)
+  image: assets/img/prathamesh.jpg
+  degree: M.Tech. at IIT Bombay
+  year: 2023-25
+  topic: "Micro-architectural optimizations for recommendation systems [Execute stage :)]" 
+  profile: https://pnavale2409.github.io/
+  email: navaleprathamesh2409@gmail.com
+  github:  
+
 - name:  Masters@CASPER (Sumon)
   image: assets/img/sumon.jpg
   degree: M.S. at IIT Bombay
@@ -51,6 +96,33 @@
   profile: https://abhishekjagushte.github.io/
   email: abhishekjagushte@gmail.com 
   github:  
+
+- name: B.Techs@CASPER (Samar) 
+  image: assets/img/samar.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2022-25
+  topic: "Side-channel attacks on CPUs"
+  profile: https://www.linkedin.com/in/samar-perwez/ 
+  email: samar.perwez@gmail.com
+  github: Consultant-47
+
+- name: B.Techs@CASPER (Hari) 
+  image: assets/img/hari.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2022-25
+  topic: "Randomized Caches [Execute stage :)]"
+  profile: https://haribhavsar.github.io/ 
+  email: 22b0934@iitb.ac.in 
+  github: HariBhavsar 
+
+- name: B.Techs@CASPER (K.S.Shriram Kumar) 
+  image: assets/img/shriram.jpg
+  degree: B.Tech at IIT Bombay
+  year: 2022-25
+  topic: "Cache Optimizations for graph analytics [Execute stage :)]"
+  profile: https://github.com/KSShriramkumar 
+  email: 22b1280@iitb.ac.in
+  github: 
 
 - name: B.Techs@CASPER (Hrishikesh) 
   image: assets/img/hrishi.jpg

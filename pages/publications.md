@@ -5,6 +5,12 @@ background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=fo
 permalink: /publications/
 
 ---
+* (**[IEEE CAL 2026](https://www.computer.org/csdl/journal/ca)**) Prerna Priyadarshini, Abhijat Bharadwaj, Biswabandan Panda, “**[Differential Privacy for Secure Cache Partitioning: Promises, Limits, and Fixes](https://www.cse.iitb.ac.in/~biswa/CAL2026DP.pdf)**” in IEEE Computer Architecture Letters 2026 (IEEE CAL '26)
+
+* (**[ISCA 2026](https://iscaconf.org/isca2026/)**) Mrityunjay Shukla, Shubham Roy, Sayandeep Saha, and Biswabandan Panda, “**[PRowhammer: Propagating Bit-flips from CPU to GPU](https://www.cse.iitb.ac.in/~biswa/ISCA2026.pdf)**” in 53rd International Symposium on Computer Architecture (ISCA'26)
+
+* (**[IEEE CAL 2026](https://www.computer.org/csdl/journal/ca)**) Vedant Kalbande, Biswabandan Panda, Alexandra Jimborean, and Alberto Ros “**[Untangling the Low Accuracy of the Entangling Instruction Prefetcher](https://www.cse.iitb.ac.in/~biswa/CAL26.pdf)**” in IEEE Computer Architecture Letters 2026 (IEEE CAL '26)
+
 * (**[ASPLOS 2026](https://asplos-conference.org/asplos2026/)**) Vedant Kalbande, Hrishikesh Deshmukh, Alberto Ros, and Biswabandan Panda, “**[ICARUS: Criticality and Reuse based Instruction Caching for Datacenter Applications](https://www.cse.iitb.ac.in/~biswa/ASPLOS26.pdf)**” in 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'26)
 
 * (**[MICRO 2025](https://www.microarch.org/micro58/)**) Sweta, Prerna Priyadarshini, and Biswabandan Panda, “**[Drishti: Do Not Forget Slicing While Designing Last-Level Cache Replacement Policies for Many-Core Systems](https://www.cse.iitb.ac.in/~biswa/MICRO25.pdf)**” in 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25) [Best paper candidate]
