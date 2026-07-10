@@ -19,8 +19,8 @@
 - name: Masters@CASPER (Naman) 
   image: assets/img/naman.jpg
   degree: M.S. at IIT Bombay
-  year: 2023-25
-  topic: "Data prefetching for datacenters [Execute stage :)]"
+  year: 2023-26
+  topic: "Data prefetching for datacenters"
   profile: https://naman5555sharma.github.io/
   email: namansharma@cse.iitb.ac.in 
   github:
@@ -28,8 +28,8 @@
 - name: Masters@CASPER (Nishkarsh) 
   image: assets/img/nishkarsh.jpg
   degree: M.S. at IIT Bombay
-  year: 2023-25
-  topic: "Secure memory hierarchy [Execute stage :)]"
+  year: 2023-26
+  topic: "Secure memory hierarchy"
   profile: https://nish-97.github.io/ 
   email: nishkarsh@cse.iitb.ac.in 
   github:
@@ -37,8 +37,8 @@
 - name: Masters@CASPER (Prerna) 
   image: assets/img/prerna.jpg
   degree: M.S. at IIT Bombay
-  year: 2023-25
-  topic: "Secure cache partitioning [Execute stage :)]"
+  year: 2023-26
+  topic: "Secure cache partitioning"
   profile: https://14prerna.github.io/prerna/ 
   email: 23m2115@iitb.ac.in 
   github:
@@ -46,8 +46,8 @@
 - name: Masters@CASPER(Vedant)
   image: assets/img/vedant.jpg
   degree: MS at IIT Bombay
-  year: 2023-25
-  topic: "Front-end optimizations for datacenters [Execute stage :)]"
+  year: 2023-26
+  topic: "Front-end optimizations for datacenters"
   profile: https://vedantk11.github.io/vedantk.github.io/
   email:  23m2108@iitb.ac.in
   github: https://github.com/VedantK11
@@ -55,8 +55,8 @@
 - name:  Masters@CASPER (Prathamesh)
   image: assets/img/prathamesh.jpg
   degree: M.Tech. at IIT Bombay
-  year: 2023-25
-  topic: "Micro-architectural optimizations for recommendation systems [Execute stage :)]" 
+  year: 2023-26
+  topic: "Micro-architectural optimizations for recommendation systems" 
   profile: https://pnavale2409.github.io/
   email: navaleprathamesh2409@gmail.com
   github:  

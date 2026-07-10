@@ -5,6 +5,8 @@ background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=fo
 permalink: /publications/
 
 ---
+* (**[IEEE CAL 2026](https://www.computer.org/csdl/journal/ca)**) Naman Sharma and Biswabandan Panda, “**[Toppy: A Global Offset-based Data Prefetcher for Instruction Heavy Server Workloads](https://www.cse.iitb.ac.in/~biswa/Toppy-CAL26.pdf)**” in IEEE Computer Architecture Letters 2026 (IEEE CAL '26)
+
 * (**[IEEE CAL 2026](https://www.computer.org/csdl/journal/ca)**) Prerna Priyadarshini, Abhijat Bharadwaj, Biswabandan Panda, “**[Differential Privacy for Secure Cache Partitioning: Promises, Limits, and Fixes](https://www.cse.iitb.ac.in/~biswa/CAL2026DP.pdf)**” in IEEE Computer Architecture Letters 2026 (IEEE CAL '26)
 
 * (**[ISCA 2026](https://iscaconf.org/isca2026/)**) Mrityunjay Shukla, Shubham Roy, Sayandeep Saha, and Biswabandan Panda, “**[PRowhammer: Propagating Bit-flips from CPU to GPU](https://www.cse.iitb.ac.in/~biswa/ISCA2026.pdf)**” in 53rd International Symposium on Computer Architecture (ISCA'26)
