@@ -109,7 +109,7 @@
 - name: B.Techs@CASPER (Hari) 
   image: assets/img/hari.jpg
   degree: B.Tech at IIT Bombay
-  year: 2022-25
+  year: 2022-26
   topic: "Randomized Caches [Execute stage :)]"
   profile: https://haribhavsar.github.io/ 
   email: 22b0934@iitb.ac.in 
@@ -118,7 +118,7 @@
 - name: B.Techs@CASPER (K.S.Shriram Kumar) 
   image: assets/img/shriram.jpg
   degree: B.Tech at IIT Bombay
-  year: 2022-25
+  year: 2022-26
   topic: "Cache Optimizations for graph analytics [Execute stage :)]"
   profile: https://github.com/KSShriramkumar 
   email: 22b1280@iitb.ac.in
