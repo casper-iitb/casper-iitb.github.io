@@ -92,6 +92,15 @@
   email: 25m2137@iitb.ac.in
   github: Shivam-official16
 
+- name: Masters@CASPER (Aditya)
+  image: assets/img/aditya.jpg
+  degree: M.Tech at IIT Bombay
+  year: 2025 -
+  topic: "Improving SM Utilisation for Large Language Model Inference Serving Systems"
+  profile: https://www.linkedin.com/in/aditya-gaikwad-568190282
+  email: 25m0745@iitb.ac.in
+  github: flameberry
+
 - name: B.Techs@CASPER (Geet) 
   image: assets/img/geet.jpg
   degree: B.Tech at IIT Bombay
